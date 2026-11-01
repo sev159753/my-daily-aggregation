@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T09:42:03.713465+00:00",
+  "updated_at": "2026-11-01T09:47:58.667948+00:00",
   "sources": [
     {
       "name": "hackernews",
@@ -9,62 +9,62 @@
         {
           "title": "HackerTube: YouTube built from videos recommended by HN",
           "url": "https://karpathy.bearblog.dev/hacker-tube/",
-          "score": 1277,
+          "score": 1289,
           "by": "karpathy"
         },
         {
           "title": "An Italian farmer found some unknown seeds in his attic and planted them",
           "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-          "score": 425,
+          "score": 430,
           "by": "ecares"
         },
         {
           "title": "The AI cost of JavaScript frameworks",
           "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-          "score": 62,
+          "score": 64,
           "by": "luu"
         },
         {
           "title": "Running a bootstrapped SaaS for 20 years with my brother",
           "url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
-          "score": 78,
+          "score": 80,
           "by": "whyleyc"
         },
         {
           "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
           "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-          "score": 114,
+          "score": 116,
           "by": "doodlesdev"
         },
         {
           "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
           "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-          "score": 501,
+          "score": 502,
           "by": "oger"
-        },
-        {
-          "title": "Japan's trains are great. Why is booking one so hard?",
-          "url": "https://vinibrasil.com/japan-train/",
-          "score": 7,
-          "by": "vnbrs"
-        },
-        {
-          "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-          "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-          "score": 221,
-          "by": "guregodevo"
-        },
-        {
-          "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-          "url": "https://arxiv.org/abs/2409.02292",
-          "score": 83,
-          "by": "hapax_legomena"
         },
         {
           "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
           "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
-          "score": 4,
+          "score": 8,
           "by": "surprisetalk"
+        },
+        {
+          "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+          "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+          "score": 224,
+          "by": "guregodevo"
+        },
+        {
+          "title": "Japan's trains are great. Why is booking one so hard?",
+          "url": "https://vinibrasil.com/japan-train/",
+          "score": 8,
+          "by": "vnbrs"
+        },
+        {
+          "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+          "url": "https://arxiv.org/abs/2409.02292",
+          "score": 85,
+          "by": "hapax_legomena"
         },
         {
           "title": "Pac-Man's Siren Call",
@@ -75,13 +75,13 @@
         {
           "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
           "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
-          "score": 107,
+          "score": 109,
           "by": "ohjeez"
         },
         {
           "title": "ChatGPT and Codex usage limits merging",
           "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-          "score": 118,
+          "score": 119,
           "by": "Zariel"
         },
         {
@@ -91,10 +91,10 @@
           "by": "ntur1337"
         },
         {
-          "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
-          "url": "http://thales.mit.edu/bush/index.php/4801-2/",
-          "score": 35,
-          "by": "peter_d_sherman"
+          "title": "Altoids Project",
+          "url": "https://uvdn7.github.io/altoids-project/",
+          "score": 109,
+          "by": "uvdn7"
         }
       ]
     },
@@ -124,8 +124,8 @@
           "hot": null
         },
         {
-          "title": "法定放假总数已增至13天",
-          "url": "https://m.baidu.com/s?word=%E6%B3%95%E5%AE%9A%E6%94%BE%E5%81%87%E6%80%BB%E6%95%B0%E5%B7%B2%E5%A2%9E%E8%87%B313%E5%A4%A9&sa=fyb_news",
+          "title": "成人感染幽门螺杆菌很难自愈",
+          "url": "https://m.baidu.com/s?word=%E6%88%90%E4%BA%BA%E6%84%9F%E6%9F%93%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E5%BE%88%E9%9A%BE%E8%87%AA%E6%84%88&sa=fyb_news",
           "hot": null
         },
         {
@@ -139,8 +139,8 @@
           "hot": null
         },
         {
-          "title": "成人感染幽门螺杆菌很难自愈",
-          "url": "https://m.baidu.com/s?word=%E6%88%90%E4%BA%BA%E6%84%9F%E6%9F%93%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E5%BE%88%E9%9A%BE%E8%87%AA%E6%84%88&sa=fyb_news",
+          "title": "法定放假总数已增至13天",
+          "url": "https://m.baidu.com/s?word=%E6%B3%95%E5%AE%9A%E6%94%BE%E5%81%87%E6%80%BB%E6%95%B0%E5%B7%B2%E5%A2%9E%E8%87%B313%E5%A4%A9&sa=fyb_news",
           "hot": null
         },
         {
@@ -154,8 +154,8 @@
           "hot": null
         },
         {
-          "title": "吕齐去世 曾出演《编辑部的故事》",
-          "url": "https://m.baidu.com/s?word=%E5%90%95%E9%BD%90%E5%8E%BB%E4%B8%96+%E6%9B%BE%E5%87%BA%E6%BC%94%E3%80%8A%E7%BC%96%E8%BE%91%E9%83%A8%E7%9A%84%E6%95%85%E4%BA%8B%E3%80%8B&sa=fyb_news",
+          "title": "婚礼当晚新郎车祸进ICU 新娘查出怀孕",
+          "url": "https://m.baidu.com/s?word=%E5%A9%9A%E7%A4%BC%E5%BD%93%E6%99%9A%E6%96%B0%E9%83%8E%E8%BD%A6%E7%A5%B8%E8%BF%9BICU+%E6%96%B0%E5%A8%98%E6%9F%A5%E5%87%BA%E6%80%80%E5%AD%95&sa=fyb_news",
           "hot": null
         },
         {
@@ -188,77 +188,77 @@
         {
           "title": "AI短剧为何放弃清宫戏",
           "url": "https://s.weibo.com/weibo?q=%23AI短剧为何放弃清宫戏%23",
-          "hot": 1117738
+          "hot": 1113848
         },
         {
           "title": "央行证监会将于明天召开座谈会",
           "url": "https://s.weibo.com/weibo?q=%23央行证监会将于明天召开座谈会%23",
-          "hot": 810331
+          "hot": 831153
         },
         {
           "title": "专家解读全面从严治党新部署",
           "url": "https://s.weibo.com/weibo?q=%23专家解读全面从严治党新部署%23",
-          "hot": 795024
+          "hot": 624651
         },
         {
-          "title": "王智艾伦喊你上京东11.11抢1元新品",
-          "url": "https://s.weibo.com/weibo?q=%23王智艾伦喊你上京东11.11抢1元新品%23",
-          "hot": 781209
+          "title": "小米龙甲电池一验三连",
+          "url": "https://s.weibo.com/weibo?q=%23小米龙甲电池一验三连%23",
+          "hot": 624546
         },
         {
           "title": "后会友期正片删除文吉儿一句话",
           "url": "https://s.weibo.com/weibo?q=%23后会友期正片删除文吉儿一句话%23",
-          "hot": 773770
+          "hot": 623947
         },
         {
-          "title": "嫁金钗圆房第二天甜晕了",
-          "url": "https://s.weibo.com/weibo?q=%23嫁金钗圆房第二天甜晕了%23",
-          "hot": 738589
+          "title": "玉簟秋be",
+          "url": "https://s.weibo.com/weibo?q=%23玉簟秋be%23",
+          "hot": 622312
         },
         {
           "title": "Bin称击败宙斯接替世一上",
           "url": "https://s.weibo.com/weibo?q=%23Bin称击败宙斯接替世一上%23",
-          "hot": 727010
-        },
-        {
-          "title": "GLASS五周年杰作大赏",
-          "url": "https://s.weibo.com/weibo?q=%23GLASS五周年杰作大赏%23",
-          "hot": 723194
+          "hot": 620668
         },
         {
           "title": "法定放假总数已增至13天",
           "url": "https://s.weibo.com/weibo?q=%23法定放假总数已增至13天%23",
-          "hot": 711107
+          "hot": 617853
         },
         {
           "title": "警方介入谢霆锋被扔荧光棒事件",
           "url": "https://s.weibo.com/weibo?q=%23警方介入谢霆锋被扔荧光棒事件%23",
-          "hot": 687431
-        },
-        {
-          "title": "Xun开团Homme",
-          "url": "https://s.weibo.com/weibo?q=%23Xun开团Homme%23",
-          "hot": 687314
-        },
-        {
-          "title": "石宇奇结婚",
-          "url": "https://s.weibo.com/weibo?q=%23石宇奇结婚%23",
-          "hot": 664552
+          "hot": 616490
         },
         {
           "title": "多地小学老师转岗教中学",
           "url": "https://s.weibo.com/weibo?q=%23多地小学老师转岗教中学%23",
-          "hot": 650820
+          "hot": 615512
         },
         {
-          "title": "德国也乱了",
-          "url": "https://s.weibo.com/weibo?q=%23德国也乱了%23",
-          "hot": 634053
+          "title": "石宇奇结婚",
+          "url": "https://s.weibo.com/weibo?q=%23石宇奇结婚%23",
+          "hot": 613573
         },
         {
           "title": "后会友期观察室嘉宾非常不讨喜",
           "url": "https://s.weibo.com/weibo?q=%23后会友期观察室嘉宾非常不讨喜%23",
-          "hot": 633926
+          "hot": 612082
+        },
+        {
+          "title": "谭松韵改礼服",
+          "url": "https://s.weibo.com/weibo?q=%23谭松韵改礼服%23",
+          "hot": 573901
+        },
+        {
+          "title": "梁淅沥盛艾敬双人新版开场",
+          "url": "https://s.weibo.com/weibo?q=%23梁淅沥盛艾敬双人新版开场%23",
+          "hot": 560542
+        },
+        {
+          "title": "侯卓成 王垲智",
+          "url": "https://s.weibo.com/weibo?q=%23侯卓成 王垲智%23",
+          "hot": 470802
         }
       ]
     }
