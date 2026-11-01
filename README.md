@@ -16,6 +16,8 @@ python scripts/fetch_news.py
 
 ## 部署到 GitHub（一次性，约 3 分钟）
 
+> **最省事**：回到上层目录 `D:\WorkBuddy\myproject\`，右键运行 `2-一键部署云端聚合.ps1`，会自动装 GitHub 命令行工具、登录、建仓库并推送、等首次聚合、启用 Pages，最后打印两个 JSON 地址。全程只需在浏览器点一下授权。
+
 1. 在 GitHub 新建仓库（**推荐 public**，免 token；数据本身全公开）。
 2. 进入本目录，初始化并推送：
    ```bash
