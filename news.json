@@ -1,0 +1,266 @@
+{
+  "updated_at": "2026-11-01T09:42:03.713465+00:00",
+  "sources": [
+    {
+      "name": "hackernews",
+      "category": "tech",
+      "count": 15,
+      "items": [
+        {
+          "title": "HackerTube: YouTube built from videos recommended by HN",
+          "url": "https://karpathy.bearblog.dev/hacker-tube/",
+          "score": 1277,
+          "by": "karpathy"
+        },
+        {
+          "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+          "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+          "score": 425,
+          "by": "ecares"
+        },
+        {
+          "title": "The AI cost of JavaScript frameworks",
+          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+          "score": 62,
+          "by": "luu"
+        },
+        {
+          "title": "Running a bootstrapped SaaS for 20 years with my brother",
+          "url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
+          "score": 78,
+          "by": "whyleyc"
+        },
+        {
+          "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+          "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+          "score": 114,
+          "by": "doodlesdev"
+        },
+        {
+          "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+          "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+          "score": 501,
+          "by": "oger"
+        },
+        {
+          "title": "Japan's trains are great. Why is booking one so hard?",
+          "url": "https://vinibrasil.com/japan-train/",
+          "score": 7,
+          "by": "vnbrs"
+        },
+        {
+          "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+          "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+          "score": 221,
+          "by": "guregodevo"
+        },
+        {
+          "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+          "url": "https://arxiv.org/abs/2409.02292",
+          "score": 83,
+          "by": "hapax_legomena"
+        },
+        {
+          "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+          "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+          "score": 4,
+          "by": "surprisetalk"
+        },
+        {
+          "title": "Pac-Man's Siren Call",
+          "url": "https://unsung.aresluna.org/pac-mans-siren-call/",
+          "score": 18,
+          "by": "tobr"
+        },
+        {
+          "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+          "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+          "score": 107,
+          "by": "ohjeez"
+        },
+        {
+          "title": "ChatGPT and Codex usage limits merging",
+          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+          "score": 118,
+          "by": "Zariel"
+        },
+        {
+          "title": "It's the memory latency, stupid",
+          "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+          "score": 194,
+          "by": "ntur1337"
+        },
+        {
+          "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
+          "url": "http://thales.mit.edu/bush/index.php/4801-2/",
+          "score": 35,
+          "by": "peter_d_sherman"
+        }
+      ]
+    },
+    {
+      "name": "baidu",
+      "category": "domestic",
+      "count": 15,
+      "items": [
+        {
+          "title": "以恒心守初心 从胜利走向新的胜利",
+          "url": "https://m.baidu.com/s?word=%E4%BB%A5%E6%81%92%E5%BF%83%E5%AE%88%E5%88%9D%E5%BF%83+%E4%BB%8E%E8%83%9C%E5%88%A9%E8%B5%B0%E5%90%91%E6%96%B0%E7%9A%84%E8%83%9C%E5%88%A9&sa=fyb_news",
+          "hot": null
+        },
+        {
+          "title": "二十届五中全会决定",
+          "url": "https://m.baidu.com/s?word=%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%86%B3%E5%AE%9A&sa=fyb_news",
+          "hot": null
+        },
+        {
+          "title": "央行、证监会将于明天召开座谈会",
+          "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A1%8C%E3%80%81%E8%AF%81%E7%9B%91%E4%BC%9A%E5%B0%86%E4%BA%8E%E6%98%8E%E5%A4%A9%E5%8F%AC%E5%BC%80%E5%BA%A7%E8%B0%88%E4%BC%9A&sa=fyb_news",
+          "hot": null
+        },
+        {
+          "title": "秋日文旅热 赏秋正当时",
+          "url": "https://m.baidu.com/s?word=%E7%A7%8B%E6%97%A5%E6%96%87%E6%97%85%E7%83%AD+%E8%B5%8F%E7%A7%8B%E6%AD%A3%E5%BD%93%E6%97%B6&sa=fyb_news",
+          "hot": null
+        },
+        {
+          "title": "法定放假总数已增至13天",
+          "url": "https://m.baidu.com/s?word=%E6%B3%95%E5%AE%9A%E6%94%BE%E5%81%87%E6%80%BB%E6%95%B0%E5%B7%B2%E5%A2%9E%E8%87%B313%E5%A4%A9&sa=fyb_news",
+          "hot": null
+        },
+        {
+          "title": "短剧《太奶奶5》上线首日热度破亿",
+          "url": "https://m.baidu.com/s?word=%E7%9F%AD%E5%89%A7%E3%80%8A%E5%A4%AA%E5%A5%B6%E5%A5%B65%E3%80%8B%E4%B8%8A%E7%BA%BF%E9%A6%96%E6%97%A5%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%BA%BF&sa=fyb_news",
+          "hot": null
+        },
+        {
+          "title": "“纯过日子”的年轻人赢了",
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E7%BA%AF%E8%BF%87%E6%97%A5%E5%AD%90%E2%80%9D%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B5%A2%E4%BA%86&sa=fyb_news",
+          "hot": null
+        },
+        {
+          "title": "成人感染幽门螺杆菌很难自愈",
+          "url": "https://m.baidu.com/s?word=%E6%88%90%E4%BA%BA%E6%84%9F%E6%9F%93%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E5%BE%88%E9%9A%BE%E8%87%AA%E6%84%88&sa=fyb_news",
+          "hot": null
+        },
+        {
+          "title": "邹市明15岁儿子舞台首秀",
+          "url": "https://m.baidu.com/s?word=%E9%82%B9%E5%B8%82%E6%98%8E15%E5%B2%81%E5%84%BF%E5%AD%90%E8%88%9E%E5%8F%B0%E9%A6%96%E7%A7%80&sa=fyb_news",
+          "hot": null
+        },
+        {
+          "title": "向谢霆锋扔荧光棒男子被行政处罚",
+          "url": "https://m.baidu.com/s?word=%E5%90%91%E8%B0%A2%E9%9C%86%E9%94%8B%E6%89%94%E8%8D%A7%E5%85%89%E6%A3%92%E7%94%B7%E5%AD%90%E8%A2%AB%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A&sa=fyb_news",
+          "hot": null
+        },
+        {
+          "title": "吕齐去世 曾出演《编辑部的故事》",
+          "url": "https://m.baidu.com/s?word=%E5%90%95%E9%BD%90%E5%8E%BB%E4%B8%96+%E6%9B%BE%E5%87%BA%E6%BC%94%E3%80%8A%E7%BC%96%E8%BE%91%E9%83%A8%E7%9A%84%E6%95%85%E4%BA%8B%E3%80%8B&sa=fyb_news",
+          "hot": null
+        },
+        {
+          "title": "乌鲁木齐辟谣“禁售马肉马肠制品”",
+          "url": "https://m.baidu.com/s?word=%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E8%BE%9F%E8%B0%A3%E2%80%9C%E7%A6%81%E5%94%AE%E9%A9%AC%E8%82%89%E9%A9%AC%E8%82%A0%E5%88%B6%E5%93%81%E2%80%9D&sa=fyb_news",
+          "hot": null
+        },
+        {
+          "title": "这些食物吃一点都是在往嘴里倒油",
+          "url": "https://m.baidu.com/s?word=%E8%BF%99%E4%BA%9B%E9%A3%9F%E7%89%A9%E5%90%83%E4%B8%80%E7%82%B9%E9%83%BD%E6%98%AF%E5%9C%A8%E5%BE%80%E5%98%B4%E9%87%8C%E5%80%92%E6%B2%B9&sa=fyb_news",
+          "hot": null
+        },
+        {
+          "title": "德国也乱了",
+          "url": "https://m.baidu.com/s?word=%E5%BE%B7%E5%9B%BD%E4%B9%9F%E4%B9%B1%E4%BA%86&sa=fyb_news",
+          "hot": null
+        },
+        {
+          "title": "《五哈嘉年华》节目组被指霸凌粉丝",
+          "url": "https://m.baidu.com/s?word=%E3%80%8A%E4%BA%94%E5%93%88%E5%98%89%E5%B9%B4%E5%8D%8E%E3%80%8B%E8%8A%82%E7%9B%AE%E7%BB%84%E8%A2%AB%E6%8C%87%E9%9C%B8%E5%87%8C%E7%B2%89%E4%B8%9D&sa=fyb_news",
+          "hot": null
+        }
+      ]
+    },
+    {
+      "name": "weibo",
+      "category": "domestic",
+      "count": 15,
+      "items": [
+        {
+          "title": "AI短剧为何放弃清宫戏",
+          "url": "https://s.weibo.com/weibo?q=%23AI短剧为何放弃清宫戏%23",
+          "hot": 1117738
+        },
+        {
+          "title": "央行证监会将于明天召开座谈会",
+          "url": "https://s.weibo.com/weibo?q=%23央行证监会将于明天召开座谈会%23",
+          "hot": 810331
+        },
+        {
+          "title": "专家解读全面从严治党新部署",
+          "url": "https://s.weibo.com/weibo?q=%23专家解读全面从严治党新部署%23",
+          "hot": 795024
+        },
+        {
+          "title": "王智艾伦喊你上京东11.11抢1元新品",
+          "url": "https://s.weibo.com/weibo?q=%23王智艾伦喊你上京东11.11抢1元新品%23",
+          "hot": 781209
+        },
+        {
+          "title": "后会友期正片删除文吉儿一句话",
+          "url": "https://s.weibo.com/weibo?q=%23后会友期正片删除文吉儿一句话%23",
+          "hot": 773770
+        },
+        {
+          "title": "嫁金钗圆房第二天甜晕了",
+          "url": "https://s.weibo.com/weibo?q=%23嫁金钗圆房第二天甜晕了%23",
+          "hot": 738589
+        },
+        {
+          "title": "Bin称击败宙斯接替世一上",
+          "url": "https://s.weibo.com/weibo?q=%23Bin称击败宙斯接替世一上%23",
+          "hot": 727010
+        },
+        {
+          "title": "GLASS五周年杰作大赏",
+          "url": "https://s.weibo.com/weibo?q=%23GLASS五周年杰作大赏%23",
+          "hot": 723194
+        },
+        {
+          "title": "法定放假总数已增至13天",
+          "url": "https://s.weibo.com/weibo?q=%23法定放假总数已增至13天%23",
+          "hot": 711107
+        },
+        {
+          "title": "警方介入谢霆锋被扔荧光棒事件",
+          "url": "https://s.weibo.com/weibo?q=%23警方介入谢霆锋被扔荧光棒事件%23",
+          "hot": 687431
+        },
+        {
+          "title": "Xun开团Homme",
+          "url": "https://s.weibo.com/weibo?q=%23Xun开团Homme%23",
+          "hot": 687314
+        },
+        {
+          "title": "石宇奇结婚",
+          "url": "https://s.weibo.com/weibo?q=%23石宇奇结婚%23",
+          "hot": 664552
+        },
+        {
+          "title": "多地小学老师转岗教中学",
+          "url": "https://s.weibo.com/weibo?q=%23多地小学老师转岗教中学%23",
+          "hot": 650820
+        },
+        {
+          "title": "德国也乱了",
+          "url": "https://s.weibo.com/weibo?q=%23德国也乱了%23",
+          "hot": 634053
+        },
+        {
+          "title": "后会友期观察室嘉宾非常不讨喜",
+          "url": "https://s.weibo.com/weibo?q=%23后会友期观察室嘉宾非常不讨喜%23",
+          "hot": 633926
+        }
+      ]
+    }
+  ]
+}
