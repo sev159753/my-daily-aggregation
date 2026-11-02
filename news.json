@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T09:59:35.062961+00:00",
+  "updated_at": "2026-11-02T04:34:52.557430+00:00",
   "sources": [
     {
       "name": "hackernews",
@@ -7,94 +7,94 @@
       "count": 15,
       "items": [
         {
+          "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+          "url": "https://hackerbooks.org",
+          "score": 1079,
+          "by": "roansh"
+        },
+        {
+          "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+          "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+          "score": 39,
+          "by": "joonehur"
+        },
+        {
+          "title": "Postgres 19 is late because so many more bugs are being found now",
+          "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+          "score": 167,
+          "by": "soheilpro"
+        },
+        {
           "title": "HackerTube: YouTube built from videos recommended by HN",
           "url": "https://karpathy.bearblog.dev/hacker-tube/",
-          "score": 1302,
+          "score": 2385,
           "by": "karpathy"
         },
         {
-          "title": "Japan's trains are great. Why is booking one so hard?",
-          "url": "https://vinibrasil.com/japan-train/",
-          "score": 13,
-          "by": "vnbrs"
+          "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+          "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+          "score": 41,
+          "by": "_Microft"
         },
         {
-          "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-          "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-          "score": 437,
-          "by": "ecares"
+          "title": "Ask HN: Which TV do you recommend for privacy?",
+          "url": "https://news.ycombinator.com/item?id=50328896",
+          "score": 206,
+          "by": "LecroJS"
         },
         {
-          "title": "The AI cost of JavaScript frameworks",
-          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-          "score": 68,
+          "title": "Nibnib: Image compression with extreme decompression speed",
+          "url": "https://github.com/raphlinus/nibnib",
+          "score": 117,
+          "by": "raphlinus"
+        },
+        {
+          "title": "Trigger.dev customer environment variables exposed",
+          "url": "https://trigger.dev/blog/security-incident-nov-2026",
+          "score": 29,
+          "by": "anurag"
+        },
+        {
+          "title": "Tips for more effective fuzz testing with AFL++",
+          "url": "https://nullprogram.com/blog/2025/02/05/",
+          "score": 94,
           "by": "luu"
         },
         {
-          "title": "Running a bootstrapped SaaS for 20 years with my brother",
-          "url": "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
-          "score": 85,
-          "by": "whyleyc"
+          "title": "Copper – A minimal low-level programming language with OOP and generics",
+          "url": "https://tibleiz.net/copper/",
+          "score": 147,
+          "by": "bogdanoff_2"
         },
         {
-          "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-          "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-          "score": 119,
-          "by": "doodlesdev"
+          "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+          "url": "https://github.com/ivankovic/omnidiff",
+          "score": 186,
+          "by": "FabCH"
         },
         {
-          "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
-          "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
-          "score": 11,
-          "by": "surprisetalk"
+          "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+          "score": 60,
+          "by": "stevenalowe"
         },
         {
-          "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-          "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-          "score": 504,
-          "by": "oger"
+          "title": "Keeping Up Appearances – The women taking over the funeral industry",
+          "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
+          "score": 34,
+          "by": "TMWNN"
         },
         {
-          "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-          "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-          "score": 228,
-          "by": "guregodevo"
+          "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+          "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+          "score": 42,
+          "by": "rdmuser"
         },
         {
-          "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-          "url": "https://arxiv.org/abs/2409.02292",
-          "score": 87,
-          "by": "hapax_legomena"
-        },
-        {
-          "title": "Pac-Man's Siren Call",
-          "url": "https://unsung.aresluna.org/pac-mans-siren-call/",
-          "score": 18,
-          "by": "tobr"
-        },
-        {
-          "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
-          "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
-          "score": 112,
-          "by": "ohjeez"
-        },
-        {
-          "title": "Pilot-wave hydrodynamics (Quantum phenomena in macroscopic hydrodynamic systems)",
-          "url": "http://thales.mit.edu/bush/index.php/4801-2/",
-          "score": 37,
-          "by": "peter_d_sherman"
-        },
-        {
-          "title": "ChatGPT and Codex usage limits merging",
-          "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
-          "score": 123,
-          "by": "Zariel"
-        },
-        {
-          "title": "Altoids Project",
-          "url": "https://uvdn7.github.io/altoids-project/",
-          "score": 110,
-          "by": "uvdn7"
+          "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+          "url": "https://arxiv.org/abs/2610.39302",
+          "score": 122,
+          "by": "Anon84"
         }
       ]
     },
@@ -104,78 +104,78 @@
       "count": 15,
       "items": [
         {
-          "title": "以恒心守初心 从胜利走向新的胜利",
-          "url": "https://m.baidu.com/s?word=%E4%BB%A5%E6%81%92%E5%BF%83%E5%AE%88%E5%88%9D%E5%BF%83+%E4%BB%8E%E8%83%9C%E5%88%A9%E8%B5%B0%E5%90%91%E6%96%B0%E7%9A%84%E8%83%9C%E5%88%A9&sa=fyb_news",
+          "title": "将反腐败斗争进行到底",
+          "url": "https://m.baidu.com/s?word=%E5%B0%86%E5%8F%8D%E8%85%90%E8%B4%A5%E6%96%97%E4%BA%89%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "二十届五中全会决定",
-          "url": "https://m.baidu.com/s?word=%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%86%B3%E5%AE%9A&sa=fyb_news",
+          "title": "超20万人看了一场“假”乒乓球比赛",
+          "url": "https://m.baidu.com/s?word=%E8%B6%8520%E4%B8%87%E4%BA%BA%E7%9C%8B%E4%BA%86%E4%B8%80%E5%9C%BA%E2%80%9C%E5%81%87%E2%80%9D%E4%B9%92%E4%B9%93%E7%90%83%E6%AF%94%E8%B5%9B&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "央行、证监会将于明天召开座谈会",
-          "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A1%8C%E3%80%81%E8%AF%81%E7%9B%91%E4%BC%9A%E5%B0%86%E4%BA%8E%E6%98%8E%E5%A4%A9%E5%8F%AC%E5%BC%80%E5%BA%A7%E8%B0%88%E4%BC%9A&sa=fyb_news",
+          "title": "美飞机1分钟急坠万米 究竟发生了什么",
+          "url": "https://m.baidu.com/s?word=%E7%BE%8E%E9%A3%9E%E6%9C%BA1%E5%88%86%E9%92%9F%E6%80%A5%E5%9D%A0%E4%B8%87%E7%B1%B3+%E7%A9%B6%E7%AB%9F%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "秋日文旅热 赏秋正当时",
-          "url": "https://m.baidu.com/s?word=%E7%A7%8B%E6%97%A5%E6%96%87%E6%97%85%E7%83%AD+%E8%B5%8F%E7%A7%8B%E6%AD%A3%E5%BD%93%E6%97%B6&sa=fyb_news",
+          "title": "“行李箱”装下世界眼中的中国",
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E8%A1%8C%E6%9D%8E%E7%AE%B1%E2%80%9D%E8%A3%85%E4%B8%8B%E4%B8%96%E7%95%8C%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%9B%BD&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "成人感染幽门螺杆菌很难自愈",
-          "url": "https://m.baidu.com/s?word=%E6%88%90%E4%BA%BA%E6%84%9F%E6%9F%93%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E5%BE%88%E9%9A%BE%E8%87%AA%E6%84%88&sa=fyb_news",
+          "title": "中国第一大肝病已经不是乙肝了",
+          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%82%9D%E7%97%85%E5%B7%B2%E7%BB%8F%E4%B8%8D%E6%98%AF%E4%B9%99%E8%82%9D%E4%BA%86&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "短剧《太奶奶5》上线首日热度破亿",
-          "url": "https://m.baidu.com/s?word=%E7%9F%AD%E5%89%A7%E3%80%8A%E5%A4%AA%E5%A5%B6%E5%A5%B65%E3%80%8B%E4%B8%8A%E7%BA%BF%E9%A6%96%E6%97%A5%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%BA%BF&sa=fyb_news",
+          "title": "《影之刃零》销量破400万",
+          "url": "https://m.baidu.com/s?word=%E3%80%8A%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E3%80%8B%E9%94%80%E9%87%8F%E7%A0%B4400%E4%B8%87&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "“纯过日子”的年轻人赢了",
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E7%BA%AF%E8%BF%87%E6%97%A5%E5%AD%90%E2%80%9D%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B5%A2%E4%BA%86&sa=fyb_news",
+          "title": "央行证监会召集各大银行开会",
+          "url": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A1%8C%E8%AF%81%E7%9B%91%E4%BC%9A%E5%8F%AC%E9%9B%86%E5%90%84%E5%A4%A7%E9%93%B6%E8%A1%8C%E5%BC%80%E4%BC%9A&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "邹市明15岁儿子舞台首秀",
-          "url": "https://m.baidu.com/s?word=%E9%82%B9%E5%B8%82%E6%98%8E15%E5%B2%81%E5%84%BF%E5%AD%90%E8%88%9E%E5%8F%B0%E9%A6%96%E7%A7%80&sa=fyb_news",
+          "title": "导演江小鱼去世 年仅56岁",
+          "url": "https://m.baidu.com/s?word=%E5%AF%BC%E6%BC%94%E6%B1%9F%E5%B0%8F%E9%B1%BC%E5%8E%BB%E4%B8%96+%E5%B9%B4%E4%BB%8556%E5%B2%81&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "婚礼当晚新郎车祸进ICU 新娘查出怀孕",
-          "url": "https://m.baidu.com/s?word=%E5%A9%9A%E7%A4%BC%E5%BD%93%E6%99%9A%E6%96%B0%E9%83%8E%E8%BD%A6%E7%A5%B8%E8%BF%9BICU+%E6%96%B0%E5%A8%98%E6%9F%A5%E5%87%BA%E6%80%80%E5%AD%95&sa=fyb_news",
+          "title": "女子买2套房打通后喜提环形跑道",
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E4%B9%B02%E5%A5%97%E6%88%BF%E6%89%93%E9%80%9A%E5%90%8E%E5%96%9C%E6%8F%90%E7%8E%AF%E5%BD%A2%E8%B7%91%E9%81%93&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "四千年了它们还没有下班",
-          "url": "https://m.baidu.com/s?word=%E5%9B%9B%E5%8D%83%E5%B9%B4%E4%BA%86%E5%AE%83%E4%BB%AC%E8%BF%98%E6%B2%A1%E6%9C%89%E4%B8%8B%E7%8F%AD&sa=fyb_news",
+          "title": "“失恋女网友”邀47名男子吃烧烤",
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%A4%B1%E6%81%8B%E5%A5%B3%E7%BD%91%E5%8F%8B%E2%80%9D%E9%82%8047%E5%90%8D%E7%94%B7%E5%AD%90%E5%90%83%E7%83%A7%E7%83%A4&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "向谢霆锋扔荧光棒男子被行政处罚",
-          "url": "https://m.baidu.com/s?word=%E5%90%91%E8%B0%A2%E9%9C%86%E9%94%8B%E6%89%94%E8%8D%A7%E5%85%89%E6%A3%92%E7%94%B7%E5%AD%90%E8%A2%AB%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A&sa=fyb_news",
+          "title": "胡歌自曝已戒烟很久",
+          "url": "https://m.baidu.com/s?word=%E8%83%A1%E6%AD%8C%E8%87%AA%E6%9B%9D%E5%B7%B2%E6%88%92%E7%83%9F%E5%BE%88%E4%B9%85&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "乌鲁木齐辟谣“禁售马肉马肠制品”",
-          "url": "https://m.baidu.com/s?word=%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E8%BE%9F%E8%B0%A3%E2%80%9C%E7%A6%81%E5%94%AE%E9%A9%AC%E8%82%89%E9%A9%AC%E8%82%A0%E5%88%B6%E5%93%81%E2%80%9D&sa=fyb_news",
+          "title": "员工举报公司“制毒”系凭空编造",
+          "url": "https://m.baidu.com/s?word=%E5%91%98%E5%B7%A5%E4%B8%BE%E6%8A%A5%E5%85%AC%E5%8F%B8%E2%80%9C%E5%88%B6%E6%AF%92%E2%80%9D%E7%B3%BB%E5%87%AD%E7%A9%BA%E7%BC%96%E9%80%A0&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "这些食物吃一点都是在往嘴里倒油",
-          "url": "https://m.baidu.com/s?word=%E8%BF%99%E4%BA%9B%E9%A3%9F%E7%89%A9%E5%90%83%E4%B8%80%E7%82%B9%E9%83%BD%E6%98%AF%E5%9C%A8%E5%BE%80%E5%98%B4%E9%87%8C%E5%80%92%E6%B2%B9&sa=fyb_news",
+          "title": "刘晓庆生日宴现场曝光",
+          "url": "https://m.baidu.com/s?word=%E5%88%98%E6%99%93%E5%BA%86%E7%94%9F%E6%97%A5%E5%AE%B4%E7%8E%B0%E5%9C%BA%E6%9B%9D%E5%85%89&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "德国也乱了",
-          "url": "https://m.baidu.com/s?word=%E5%BE%B7%E5%9B%BD%E4%B9%9F%E4%B9%B1%E4%BA%86&sa=fyb_news",
+          "title": "老人被困电梯遭物业辱骂 随后猝死",
+          "url": "https://m.baidu.com/s?word=%E8%80%81%E4%BA%BA%E8%A2%AB%E5%9B%B0%E7%94%B5%E6%A2%AF%E9%81%AD%E7%89%A9%E4%B8%9A%E8%BE%B1%E9%AA%82+%E9%9A%8F%E5%90%8E%E7%8C%9D%E6%AD%BB&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "《五哈嘉年华》节目组被指霸凌粉丝",
-          "url": "https://m.baidu.com/s?word=%E3%80%8A%E4%BA%94%E5%93%88%E5%98%89%E5%B9%B4%E5%8D%8E%E3%80%8B%E8%8A%82%E7%9B%AE%E7%BB%84%E8%A2%AB%E6%8C%87%E9%9C%B8%E5%87%8C%E7%B2%89%E4%B8%9D&sa=fyb_news",
+          "title": "一觉醒来 内塔尼亚胡悬了",
+          "url": "https://m.baidu.com/s?word=%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5+%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E6%82%AC%E4%BA%86&sa=fyb_news",
           "hot": null
         }
       ]
@@ -186,79 +186,79 @@
       "count": 15,
       "items": [
         {
-          "title": "AI短剧为何放弃清宫戏",
-          "url": "https://s.weibo.com/weibo?q=%23AI短剧为何放弃清宫戏%23",
-          "hot": 1109899
+          "title": "微信转账加一个动作",
+          "url": "https://s.weibo.com/weibo?q=%23微信转账加一个动作%23",
+          "hot": 1304652
         },
         {
-          "title": "Bin称击败宙斯接替世一上",
-          "url": "https://s.weibo.com/weibo?q=%23Bin称击败宙斯接替世一上%23",
-          "hot": 827439
+          "title": "美坠毁公务机飞行员绝望尖叫",
+          "url": "https://s.weibo.com/weibo?q=%23美坠毁公务机飞行员绝望尖叫%23",
+          "hot": 1059437
         },
         {
-          "title": "专家解读全面从严治党新部署",
-          "url": "https://s.weibo.com/weibo?q=%23专家解读全面从严治党新部署%23",
-          "hot": 776506
+          "title": "2026年世界互联网大会乌镇峰会",
+          "url": "https://s.weibo.com/weibo?q=%232026年世界互联网大会乌镇峰会%23",
+          "hot": 910418
         },
         {
-          "title": "9W颗拼豆版张彬彬亮相京东家居馆",
-          "url": "https://s.weibo.com/weibo?q=%239W颗拼豆版张彬彬亮相京东家居馆%23",
-          "hot": 774274
+          "title": "马天宇 已删除杨幂接下来是孙怡",
+          "url": "https://s.weibo.com/weibo?q=%23马天宇 已删除杨幂接下来是孙怡%23",
+          "hot": 8667853
         },
         {
-          "title": "后会友期正片删除文吉儿一句话",
-          "url": "https://s.weibo.com/weibo?q=%23后会友期正片删除文吉儿一句话%23",
-          "hot": 773998
+          "title": "美公务机坠毁前1分钟下降超8000米",
+          "url": "https://s.weibo.com/weibo?q=%23美公务机坠毁前1分钟下降超8000米%23",
+          "hot": 610092
         },
         {
-          "title": "央行证监会将于明天召开座谈会",
-          "url": "https://s.weibo.com/weibo?q=%23央行证监会将于明天召开座谈会%23",
-          "hot": 352017
+          "title": "罗技广告再被指侮辱用户",
+          "url": "https://s.weibo.com/weibo?q=%23罗技广告再被指侮辱用户%23",
+          "hot": 537975
         },
         {
-          "title": "警方介入谢霆锋被扔荧光棒事件",
-          "url": "https://s.weibo.com/weibo?q=%23警方介入谢霆锋被扔荧光棒事件%23",
-          "hot": 351366
+          "title": "PUBG联名IVE即将重磅上线",
+          "url": "https://s.weibo.com/weibo?q=%23PUBG联名IVE即将重磅上线%23",
+          "hot": 536568
         },
         {
-          "title": "法定放假总数已增至13天",
-          "url": "https://s.weibo.com/weibo?q=%23法定放假总数已增至13天%23",
-          "hot": 349862
+          "title": "你家可能囤着致癌日用品",
+          "url": "https://s.weibo.com/weibo?q=%23你家可能囤着致癌日用品%23",
+          "hot": 527918
         },
         {
-          "title": "后会友期观察室嘉宾非常不讨喜",
-          "url": "https://s.weibo.com/weibo?q=%23后会友期观察室嘉宾非常不讨喜%23",
-          "hot": 347726
+          "title": "休息日5小时没回消息老师申请仲裁",
+          "url": "https://s.weibo.com/weibo?q=%23休息日5小时没回消息老师申请仲裁%23",
+          "hot": 434625
         },
         {
-          "title": "央行证监会将研究支持资本市场工具",
-          "url": "https://s.weibo.com/weibo?q=%23央行证监会将研究支持资本市场工具%23",
-          "hot": 345950
+          "title": "美一飞机特朗普私宅附近坠毁",
+          "url": "https://s.weibo.com/weibo?q=%23美一飞机特朗普私宅附近坠毁%23",
+          "hot": 433842
         },
         {
-          "title": "石宇奇结婚",
-          "url": "https://s.weibo.com/weibo?q=%23石宇奇结婚%23",
-          "hot": 344087
+          "title": "AI短剧 影视行业",
+          "url": "https://s.weibo.com/weibo?q=%23AI短剧 影视行业%23",
+          "hot": 431976
         },
         {
-          "title": "AI问诊和医生看病不是一回事",
-          "url": "https://s.weibo.com/weibo?q=%23AI问诊和医生看病不是一回事%23",
-          "hot": 341659
+          "title": "杨幂求马天宇把她删了",
+          "url": "https://s.weibo.com/weibo?q=%23杨幂求马天宇把她删了%23",
+          "hot": 428989
         },
         {
-          "title": "谭松韵改礼服",
-          "url": "https://s.weibo.com/weibo?q=%23谭松韵改礼服%23",
-          "hot": 339361
+          "title": "胡歌自曝已戒烟很久了",
+          "url": "https://s.weibo.com/weibo?q=%23胡歌自曝已戒烟很久了%23",
+          "hot": 427122
         },
         {
-          "title": "厦门年轻人集体休摸鱼假",
-          "url": "https://s.weibo.com/weibo?q=%23厦门年轻人集体休摸鱼假%23",
-          "hot": 337425
+          "title": "伦德博格37分",
+          "url": "https://s.weibo.com/weibo?q=%23伦德博格37分%23",
+          "hot": 424755
         },
         {
-          "title": "梁淅沥盛艾敬双人新版开场",
-          "url": "https://s.weibo.com/weibo?q=%23梁淅沥盛艾敬双人新版开场%23",
-          "hot": 334966
+          "title": "中国女生借卫生巾震撼外国网友",
+          "url": "https://s.weibo.com/weibo?q=%23中国女生借卫生巾震撼外国网友%23",
+          "hot": 422644
         }
       ]
     }
