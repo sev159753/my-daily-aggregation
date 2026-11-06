@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T05:15:27.339564+00:00",
+  "updated_at": "2026-11-06T05:15:08.561821+00:00",
   "sources": [
     {
       "name": "hackernews",
@@ -7,94 +7,94 @@
       "count": 15,
       "items": [
         {
-          "title": "Residential proxies detected on White House network",
-          "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-          "score": 838,
-          "by": "Rasbora"
+          "title": "Claude Code sends your email address to websites",
+          "url": "https://github.com/anthropics/claude-code/issues/107757",
+          "score": 771,
+          "by": "motoroco"
         },
         {
-          "title": "Images 2.6",
-          "url": "https://openai.com/index/introducing-images-2-6/",
-          "score": 190,
-          "by": "davidbarker"
+          "title": "sshole",
+          "url": "https://sshhole.com",
+          "score": 2474,
+          "by": "josemrb"
         },
         {
-          "title": "A thousand fewer paths to root",
-          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-          "score": 229,
-          "by": "dangelosaurus"
+          "title": "MS Paint Remote Code Execution Vulnerability",
+          "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+          "score": 406,
+          "by": "kuberwastaken"
         },
         {
-          "title": "Starfall – Affordable, routine access to microgravity",
-          "url": "https://www.spacex.com/starfall",
-          "score": 164,
-          "by": "gmays"
+          "title": "Pwn.college",
+          "url": "https://pwn.college/",
+          "score": 34,
+          "by": "tripdout"
         },
         {
-          "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-          "url": "https://www.ricursive.com/ripple",
-          "score": 264,
+          "title": "Nvidia Kubernetes Engine (NVKE)",
+          "url": "https://github.com/dsx-ai-factory/nvke",
+          "score": 31,
+          "by": "gkapur"
+        },
+        {
+          "title": "Closed AI models dominate the price-performance frontier",
+          "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+          "score": 35,
+          "by": "kevin_hu"
+        },
+        {
+          "title": "Inkling 2 Small",
+          "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+          "score": 132,
           "by": "Philpax"
         },
         {
-          "title": "Kimi K3.1 Pro model weights are out",
-          "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-          "score": 435,
-          "by": "abrarthought"
+          "title": "The Hackintosh Reborn",
+          "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+          "score": 258,
+          "by": "rubatuga"
         },
         {
-          "title": "Insects don't swarm at LED lights",
-          "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
-          "score": 209,
-          "by": "speckx"
+          "title": "Window Sweaters",
+          "url": "https://github.com/saragordic/window-sweaters",
+          "score": 279,
+          "by": "nickswalker"
         },
         {
-          "title": "A new Go API for JSON",
-          "url": "https://go.dev/blog/jsonv2",
-          "score": 260,
-          "by": "olexsmir"
+          "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+          "url": "https://github.com/matthewmrichter/mooftcp",
+          "score": 29,
+          "by": "marcusbasant"
         },
         {
-          "title": "Spreading Liquid with Three.js",
-          "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
-          "score": 16,
-          "by": "mooreds"
+          "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
+          "url": "https://firenook.dev/",
+          "score": 72,
+          "by": "sanjevirau"
         },
         {
-          "title": "Conductor is joining Meta",
-          "url": "https://www.conductor.build/announcement",
-          "score": 148,
-          "by": "kenrose"
+          "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+          "url": "https://github.com/rivet-dev/rivet",
+          "score": 85,
+          "by": "NathanFlurry"
         },
         {
-          "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
-          "url": "https://icode4.coffee/?p=1746",
-          "score": 84,
-          "by": "muricula"
+          "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+          "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+          "score": 201,
+          "by": "randycupertino"
         },
         {
-          "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-          "score": 124,
-          "by": "peter_d_sherman"
+          "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+          "url": "https://www.linum.ai/field-notes/pjit-21k",
+          "score": 187,
+          "by": "schopra909"
         },
         {
-          "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
-          "url": "https://fireflyk64.github.io/wcmulti/",
-          "score": 141,
-          "by": "daniel_rh"
-        },
-        {
-          "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-          "url": "https://news.ycombinator.com/item?id=50368804",
-          "score": 80,
-          "by": "lukeigel"
-        },
-        {
-          "title": "Progress on provable inference for large language models",
-          "url": "https://www.anthropic.com/research/provable-inference",
-          "score": 197,
-          "by": "ltononro"
+          "title": "Motorola Signature 27 with GrapheneOS support",
+          "url": "https://motorolanews.com/motorola-signature-27-2/",
+          "score": 430,
+          "by": "monneyboi"
         }
       ]
     },
@@ -104,78 +104,78 @@
       "count": 15,
       "items": [
         {
-          "title": "全面从严治党 全面从严治军",
-          "url": "https://m.baidu.com/s?word=%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%85%9A+%E5%85%A8%E9%9D%A2%E4%BB%8E%E4%B8%A5%E6%B2%BB%E5%86%9B&sa=fyb_news",
+          "title": "这份文件见证正风肃纪一以贯之",
+          "url": "https://m.baidu.com/s?word=%E8%BF%99%E4%BB%BD%E6%96%87%E4%BB%B6%E8%A7%81%E8%AF%81%E6%AD%A3%E9%A3%8E%E8%82%83%E7%BA%AA%E4%B8%80%E4%BB%A5%E8%B4%AF%E4%B9%8B&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "厕所偷拍者不乏高知人群、公司高管",
-          "url": "https://m.baidu.com/s?word=%E5%8E%95%E6%89%80%E5%81%B7%E6%8B%8D%E8%80%85%E4%B8%8D%E4%B9%8F%E9%AB%98%E7%9F%A5%E4%BA%BA%E7%BE%A4%E3%80%81%E5%85%AC%E5%8F%B8%E9%AB%98%E7%AE%A1&sa=fyb_news",
+          "title": "平板电脑卖不动了",
+          "url": "https://m.baidu.com/s?word=%E5%B9%B3%E6%9D%BF%E7%94%B5%E8%84%91%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "山姆卖起始祖鸟 要努力留下中产",
-          "url": "https://m.baidu.com/s?word=%E5%B1%B1%E5%A7%86%E5%8D%96%E8%B5%B7%E5%A7%8B%E7%A5%96%E9%B8%9F+%E8%A6%81%E5%8A%AA%E5%8A%9B%E7%95%99%E4%B8%8B%E4%B8%AD%E4%BA%A7&sa=fyb_news",
+          "title": "余艳红被查",
+          "url": "https://m.baidu.com/s?word=%E4%BD%99%E8%89%B3%E7%BA%A2%E8%A2%AB%E6%9F%A5&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "透过丰收景象看到“三个一”",
-          "url": "https://m.baidu.com/s?word=%E9%80%8F%E8%BF%87%E4%B8%B0%E6%94%B6%E6%99%AF%E8%B1%A1%E7%9C%8B%E5%88%B0%E2%80%9C%E4%B8%89%E4%B8%AA%E4%B8%80%E2%80%9D&sa=fyb_news",
+          "title": "进博会如何让养老更舒适",
+          "url": "https://m.baidu.com/s?word=%E8%BF%9B%E5%8D%9A%E4%BC%9A%E5%A6%82%E4%BD%95%E8%AE%A9%E5%85%BB%E8%80%81%E6%9B%B4%E8%88%92%E9%80%82&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "菲律宾“迷魂党”盯上中国游客",
-          "url": "https://m.baidu.com/s?word=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E2%80%9C%E8%BF%B7%E9%AD%82%E5%85%9A%E2%80%9D%E7%9B%AF%E4%B8%8A%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2&sa=fyb_news",
+          "title": "南京“零元面馆”爆火",
+          "url": "https://m.baidu.com/s?word=%E5%8D%97%E4%BA%AC%E2%80%9C%E9%9B%B6%E5%85%83%E9%9D%A2%E9%A6%86%E2%80%9D%E7%88%86%E7%81%AB&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "北电院长谈《我的前半生》翻红",
-          "url": "https://m.baidu.com/s?word=%E5%8C%97%E7%94%B5%E9%99%A2%E9%95%BF%E8%B0%88%E3%80%8A%E6%88%91%E7%9A%84%E5%89%8D%E5%8D%8A%E7%94%9F%E3%80%8B%E7%BF%BB%E7%BA%A2&sa=fyb_news",
+          "title": "袁成杰回应成老赖：会努力工作还债",
+          "url": "https://m.baidu.com/s?word=%E8%A2%81%E6%88%90%E6%9D%B0%E5%9B%9E%E5%BA%94%E6%88%90%E8%80%81%E8%B5%96%EF%BC%9A%E4%BC%9A%E5%8A%AA%E5%8A%9B%E5%B7%A5%E4%BD%9C%E8%BF%98%E5%80%BA&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "小心睡前这个习惯 严重可致盲",
-          "url": "https://m.baidu.com/s?word=%E5%B0%8F%E5%BF%83%E7%9D%A1%E5%89%8D%E8%BF%99%E4%B8%AA%E4%B9%A0%E6%83%AF+%E4%B8%A5%E9%87%8D%E5%8F%AF%E8%87%B4%E7%9B%B2&sa=fyb_news",
+          "title": "换一袋盐 全球每年300万人因此得救",
+          "url": "https://m.baidu.com/s?word=%E6%8D%A2%E4%B8%80%E8%A2%8B%E7%9B%90+%E5%85%A8%E7%90%83%E6%AF%8F%E5%B9%B4300%E4%B8%87%E4%BA%BA%E5%9B%A0%E6%AD%A4%E5%BE%97%E6%95%91&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "“偷拍黑产”调查：约14万女性被偷拍",
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%81%B7%E6%8B%8D%E9%BB%91%E4%BA%A7%E2%80%9D%E8%B0%83%E6%9F%A5%EF%BC%9A%E7%BA%A614%E4%B8%87%E5%A5%B3%E6%80%A7%E8%A2%AB%E5%81%B7%E6%8B%8D&sa=fyb_news",
+          "title": "手机越来越卷 凭什么阔直板火了",
+          "url": "https://m.baidu.com/s?word=%E6%89%8B%E6%9C%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%8D%B7+%E5%87%AD%E4%BB%80%E4%B9%88%E9%98%94%E7%9B%B4%E6%9D%BF%E7%81%AB%E4%BA%86&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "“短剧一姐”李柯以聊AI冲击",
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E7%9F%AD%E5%89%A7%E4%B8%80%E5%A7%90%E2%80%9D%E6%9D%8E%E6%9F%AF%E4%BB%A5%E8%81%8AAI%E5%86%B2%E5%87%BB&sa=fyb_news",
+          "title": "2026内娱最贵的两个字叫“厉娜”",
+          "url": "https://m.baidu.com/s?word=2026%E5%86%85%E5%A8%B1%E6%9C%80%E8%B4%B5%E7%9A%84%E4%B8%A4%E4%B8%AA%E5%AD%97%E5%8F%AB%E2%80%9C%E5%8E%89%E5%A8%9C%E2%80%9D&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "森林狼火箭爆发冲突",
-          "url": "https://m.baidu.com/s?word=%E6%A3%AE%E6%9E%97%E7%8B%BC%E7%81%AB%E7%AE%AD%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81&sa=fyb_news",
+          "title": "孙俪晒邓超五哈嘉年华后状态",
+          "url": "https://m.baidu.com/s?word=%E5%AD%99%E4%BF%AA%E6%99%92%E9%82%93%E8%B6%85%E4%BA%94%E5%93%88%E5%98%89%E5%B9%B4%E5%8D%8E%E5%90%8E%E7%8A%B6%E6%80%81&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "王菲一阵《季候风》把全网吹回老歌时代",
-          "url": "https://m.baidu.com/s?word=%E7%8E%8B%E8%8F%B2%E4%B8%80%E9%98%B5%E3%80%8A%E5%AD%A3%E5%80%99%E9%A3%8E%E3%80%8B%E6%8A%8A%E5%85%A8%E7%BD%91%E5%90%B9%E5%9B%9E%E8%80%81%E6%AD%8C%E6%97%B6%E4%BB%A3&sa=fyb_news",
+          "title": "C罗退出国家队 甲亢哥痛哭流涕弹钢琴",
+          "url": "https://m.baidu.com/s?word=C%E7%BD%97%E9%80%80%E5%87%BA%E5%9B%BD%E5%AE%B6%E9%98%9F+%E7%94%B2%E4%BA%A2%E5%93%A5%E7%97%9B%E5%93%AD%E6%B5%81%E6%B6%95%E5%BC%B9%E9%92%A2%E7%90%B4&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "征信修复这些误区要注意",
-          "url": "https://m.baidu.com/s?word=%E5%BE%81%E4%BF%A1%E4%BF%AE%E5%A4%8D%E8%BF%99%E4%BA%9B%E8%AF%AF%E5%8C%BA%E8%A6%81%E6%B3%A8%E6%84%8F&sa=fyb_news",
+          "title": "为什么你越安慰 孩子越有压力",
+          "url": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E8%B6%8A%E5%AE%89%E6%85%B0+%E5%AD%A9%E5%AD%90%E8%B6%8A%E6%9C%89%E5%8E%8B%E5%8A%9B&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "陕西重大刑案嫌犯主动报警后袭警",
-          "url": "https://m.baidu.com/s?word=%E9%99%95%E8%A5%BF%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%AB%8C%E7%8A%AF%E4%B8%BB%E5%8A%A8%E6%8A%A5%E8%AD%A6%E5%90%8E%E8%A2%AD%E8%AD%A6&sa=fyb_news",
+          "title": "54岁大哥靠AI短剧还清负债",
+          "url": "https://m.baidu.com/s?word=54%E5%B2%81%E5%A4%A7%E5%93%A5%E9%9D%A0AI%E7%9F%AD%E5%89%A7%E8%BF%98%E6%B8%85%E8%B4%9F%E5%80%BA&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "高市早苗面见日本天皇姿势被批丢人",
-          "url": "https://m.baidu.com/s?word=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%9D%A2%E8%A7%81%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E5%A7%BF%E5%8A%BF%E8%A2%AB%E6%89%B9%E4%B8%A2%E4%BA%BA&sa=fyb_news",
+          "title": "立冬后建议多吃这些食物",
+          "url": "https://m.baidu.com/s?word=%E7%AB%8B%E5%86%AC%E5%90%8E%E5%BB%BA%E8%AE%AE%E5%A4%9A%E5%90%83%E8%BF%99%E4%BA%9B%E9%A3%9F%E7%89%A9&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "炖肉时出现的浮沫该不该撇",
-          "url": "https://m.baidu.com/s?word=%E7%82%96%E8%82%89%E6%97%B6%E5%87%BA%E7%8E%B0%E7%9A%84%E6%B5%AE%E6%B2%AB%E8%AF%A5%E4%B8%8D%E8%AF%A5%E6%92%87&sa=fyb_news",
+          "title": "买了没几年的羽绒服 怎么就不保暖了",
+          "url": "https://m.baidu.com/s?word=%E4%B9%B0%E4%BA%86%E6%B2%A1%E5%87%A0%E5%B9%B4%E7%9A%84%E7%BE%BD%E7%BB%92%E6%9C%8D+%E6%80%8E%E4%B9%88%E5%B0%B1%E4%B8%8D%E4%BF%9D%E6%9A%96%E4%BA%86&sa=fyb_news",
           "hot": null
         }
       ]
@@ -186,79 +186,79 @@
       "count": 15,
       "items": [
         {
-          "title": "后会友期",
-          "url": "https://s.weibo.com/weibo?q=%23后会友期%23",
-          "hot": 1341050
+          "title": "袁成杰说会努力还债",
+          "url": "https://s.weibo.com/weibo?q=%23袁成杰说会努力还债%23",
+          "hot": 1149798
         },
         {
-          "title": "女子用筋膜枪打肚子减赘肉查出卵巢癌",
-          "url": "https://s.weibo.com/weibo?q=%23女子用筋膜枪打肚子减赘肉查出卵巢癌%23",
-          "hot": 1230615
+          "title": "2027放假 上二休一上二休二",
+          "url": "https://s.weibo.com/weibo?q=%232027放假 上二休一上二休二%23",
+          "hot": 850659
         },
         {
-          "title": "第九届进博会亮点扎堆",
-          "url": "https://s.weibo.com/weibo?q=%23第九届进博会亮点扎堆%23",
-          "hot": 674762
+          "title": "中国是超级卖家也是超级买家",
+          "url": "https://s.weibo.com/weibo?q=%23中国是超级卖家也是超级买家%23",
+          "hot": 795270
         },
         {
-          "title": "刘宇宁京东超市过关斩价",
-          "url": "https://s.weibo.com/weibo?q=%23刘宇宁京东超市过关斩价%23",
-          "hot": 663125
+          "title": "贷款买房故事竟是编的",
+          "url": "https://s.weibo.com/weibo?q=%23贷款买房故事竟是编的%23",
+          "hot": 739984
         },
         {
-          "title": "王子璇说不想跟文吉儿做朋友了",
-          "url": "https://s.weibo.com/weibo?q=%23王子璇说不想跟文吉儿做朋友了%23",
-          "hot": 661686
+          "title": "美股暴跌马斯克发出感叹哇",
+          "url": "https://s.weibo.com/weibo?q=%23美股暴跌马斯克发出感叹哇%23",
+          "hot": 563003
         },
         {
-          "title": "芒果今年已爆六部综艺",
-          "url": "https://s.weibo.com/weibo?q=%23芒果今年已爆六部综艺%23",
-          "hot": 631899
+          "title": "许飞看到厉娜过来就往反方向扇烟",
+          "url": "https://s.weibo.com/weibo?q=%23许飞看到厉娜过来就往反方向扇烟%23",
+          "hot": 526418
         },
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%23金价%23",
-          "hot": 589546
+          "title": "KPL十周年特别庆典",
+          "url": "https://s.weibo.com/weibo?q=%23KPL十周年特别庆典%23",
+          "hot": 487947
         },
         {
-          "title": "和杨幂一起Mi一口",
-          "url": "https://s.weibo.com/weibo?q=%23和杨幂一起Mi一口%23",
-          "hot": 487629
+          "title": "克莱封盖库里",
+          "url": "https://s.weibo.com/weibo?q=%23克莱封盖库里%23",
+          "hot": 409837
         },
         {
-          "title": "森林狼火箭爆发冲突",
-          "url": "https://s.weibo.com/weibo?q=%23森林狼火箭爆发冲突%23",
-          "hot": 453656
+          "title": "Zeus留言Bin用皮肤",
+          "url": "https://s.weibo.com/weibo?q=%23Zeus留言Bin用皮肤%23",
+          "hot": 332600
         },
         {
-          "title": "一直以为张萌是整容脸",
-          "url": "https://s.weibo.com/weibo?q=%23一直以为张萌是整容脸%23",
-          "hot": 452960
+          "title": "青稚崩溃",
+          "url": "https://s.weibo.com/weibo?q=%23青稚崩溃%23",
+          "hot": 308751
         },
         {
-          "title": "38岁男子被骗到缅甸因太老卖不掉",
-          "url": "https://s.weibo.com/weibo?q=%2338岁男子被骗到缅甸因太老卖不掉%23",
-          "hot": 448068
+          "title": "54岁大哥靠AI短剧还清负债",
+          "url": "https://s.weibo.com/weibo?q=%2354岁大哥靠AI短剧还清负债%23",
+          "hot": 280768
         },
         {
-          "title": "福建舰距离完全形成战斗力有多远",
-          "url": "https://s.weibo.com/weibo?q=%23福建舰距离完全形成战斗力有多远%23",
-          "hot": 442354
+          "title": "时代峰峻致全体粉丝的信",
+          "url": "https://s.weibo.com/weibo?q=%23时代峰峻致全体粉丝的信%23",
+          "hot": 280726
         },
         {
-          "title": "大冰分享很可能发大财的行业",
-          "url": "https://s.weibo.com/weibo?q=%23大冰分享很可能发大财的行业%23",
-          "hot": 440488
+          "title": "文吉儿朋友称她不被骗就不错了",
+          "url": "https://s.weibo.com/weibo?q=%23文吉儿朋友称她不被骗就不错了%23",
+          "hot": 278902
         },
         {
-          "title": "厉娜三个前任都防着许飞",
-          "url": "https://s.weibo.com/weibo?q=%23厉娜三个前任都防着许飞%23",
-          "hot": 437634
+          "title": "教师招聘禁学历歧视新规",
+          "url": "https://s.weibo.com/weibo?q=%23教师招聘禁学历歧视新规%23",
+          "hot": 277006
         },
         {
-          "title": "大学生无偿代跑拒绝供出同学",
-          "url": "https://s.weibo.com/weibo?q=%23大学生无偿代跑拒绝供出同学%23",
-          "hot": 431351
+          "title": "温瑞博3比0王楚钦",
+          "url": "https://s.weibo.com/weibo?q=%23温瑞博3比0王楚钦%23",
+          "hot": 272578
         }
       ]
     }
