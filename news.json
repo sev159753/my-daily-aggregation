@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T04:45:45.913804+00:00",
+  "updated_at": "2026-11-08T04:36:05.077181+00:00",
   "sources": [
     {
       "name": "hackernews",
@@ -7,94 +7,94 @@
       "count": 15,
       "items": [
         {
-          "title": "Libghostty 1.0",
-          "url": "https://mitchellh.com/writing/libghostty-1-0",
-          "score": 380,
-          "by": "mfiguiere"
+          "title": "What I run on my $10 USD OpenStick homelab",
+          "url": "https://blog.bosscher.ch/posts/openstick/",
+          "score": 440,
+          "by": "LaurensBER"
         },
         {
-          "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-          "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-          "score": 394,
-          "by": "theanomaly"
+          "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "score": 259,
+          "by": "shmulc"
         },
         {
-          "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
-          "url": "https://josef.cn/blog/unitree",
-          "score": 69,
-          "by": "josefchen"
+          "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+          "url": "https://github.com/crmne/zapfast",
+          "score": 15,
+          "by": "handfuloflight"
         },
         {
-          "title": "Tesla to wind down Cybertruck production",
-          "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-          "score": 916,
-          "by": "PLenz"
+          "title": "Making any integer with four 2s (2025)",
+          "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+          "score": 81,
+          "by": "germanrabbit"
         },
         {
-          "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-          "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-          "score": 69,
-          "by": "raybb"
+          "title": "GitHub New pull request overview page in public preview",
+          "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+          "score": 94,
+          "by": "xiaoyu2006"
         },
         {
-          "title": "What do the next 4000 emoji look like?",
-          "url": "https://jenniferdaniel.substack.com/p/what-do-the-next-4000-emoji-look",
-          "score": 17,
-          "by": "lacieargyle"
+          "title": "Amsterdam School",
+          "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
+          "score": 12,
+          "by": "bondarchuk"
         },
         {
-          "title": "The AI sell-off compared to well-known stock market crashes",
-          "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
-          "score": 26,
-          "by": "hubraumhugo"
+          "title": "Uranium cubes reveal why the German nuclear project failed",
+          "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+          "score": 90,
+          "by": "rbanffy"
         },
         {
-          "title": "Firecracker VM Escape: PwnEscape Part 2",
-          "url": "https://pwn.ai/blog/firecracker-escape",
-          "score": 198,
-          "by": "SerCe"
+          "title": "Need for Speed Underground 2 online in the browser",
+          "url": "https://nfsu2.xyz/",
+          "score": 865,
+          "by": "fluxusars"
         },
         {
-          "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
-          "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
-          "score": 50,
-          "by": "derbOac"
+          "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+          "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+          "score": 235,
+          "by": "antiuniverse"
         },
         {
-          "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-          "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-          "score": 301,
-          "by": "ChrisArchitect"
+          "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+          "url": "https://github.com/hedgerow-dev/coldframe",
+          "score": 207,
+          "by": "hedgerow-dev"
         },
         {
-          "title": "Lighting the Skies",
-          "url": "https://computer.rip/2026-10-25-searchlights.html",
-          "score": 8,
-          "by": "dverlaeckt80"
-        },
-        {
-          "title": "Notes on San Marino",
-          "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
-          "score": 28,
-          "by": "yorwba"
-        },
-        {
-          "title": "AI is dramatically accelerating AI research",
-          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-          "score": 239,
-          "by": "yurivish"
-        },
-        {
-          "title": "The Flash C Compiler",
-          "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+          "title": "Goodbye Claude, Hello Pi",
+          "url": "https://caleb.software/posts/claude-to-pi.html",
           "score": 7,
-          "by": "AlexeyBrin"
+          "by": "karagenit"
         },
         {
-          "title": "Can GROUP BY still be optimized after all these years?",
-          "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
-          "score": 59,
-          "by": "ntur1337"
+          "title": "Every Mac comes with an (undocumented) family member classifier",
+          "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+          "score": 644,
+          "by": "infwhispers"
+        },
+        {
+          "title": "The end of Microsoft Research's AI Frontiers group",
+          "url": "https://hunch.net/?p=13764006",
+          "score": 424,
+          "by": "srean"
+        },
+        {
+          "title": "Commodore PET – The Worlds First Personal Computer",
+          "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+          "score": 31,
+          "by": "andsoitis"
+        },
+        {
+          "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+          "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+          "score": 257,
+          "by": "thunderbong"
         }
       ]
     },
@@ -104,78 +104,78 @@
       "count": 15,
       "items": [
         {
-          "title": "见证全过程人民民主的庄严一票",
-          "url": "https://m.baidu.com/s?word=%E8%A7%81%E8%AF%81%E5%85%A8%E8%BF%87%E7%A8%8B%E4%BA%BA%E6%B0%91%E6%B0%91%E4%B8%BB%E7%9A%84%E5%BA%84%E4%B8%A5%E4%B8%80%E7%A5%A8&sa=fyb_news",
+          "title": "总书记投下庄严一票",
+          "url": "https://m.baidu.com/s?word=%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%8A%95%E4%B8%8B%E5%BA%84%E4%B8%A5%E4%B8%80%E7%A5%A8&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "小学生赊账买零食 有学生月赊1000元",
-          "url": "https://m.baidu.com/s?word=%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%B5%8A%E8%B4%A6%E4%B9%B0%E9%9B%B6%E9%A3%9F+%E6%9C%89%E5%AD%A6%E7%94%9F%E6%9C%88%E8%B5%8A1000%E5%85%83&sa=fyb_news",
+          "title": "最后一位开国将军王扶之逝世",
+          "url": "https://m.baidu.com/s?word=%E6%9C%80%E5%90%8E%E4%B8%80%E4%BD%8D%E5%BC%80%E5%9B%BD%E5%B0%86%E5%86%9B%E7%8E%8B%E6%89%B6%E4%B9%8B%E9%80%9D%E4%B8%96&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "台湾寺庙地下搜出近800公斤金银",
-          "url": "https://m.baidu.com/s?word=%E5%8F%B0%E6%B9%BE%E5%AF%BA%E5%BA%99%E5%9C%B0%E4%B8%8B%E6%90%9C%E5%87%BA%E8%BF%91800%E5%85%AC%E6%96%A4%E9%87%91%E9%93%B6&sa=fyb_news",
+          "title": "秦皇岛居民：20年没见过这么大雪",
+          "url": "https://m.baidu.com/s?word=%E7%A7%A6%E7%9A%87%E5%B2%9B%E5%B1%85%E6%B0%91%EF%BC%9A20%E5%B9%B4%E6%B2%A1%E8%A7%81%E8%BF%87%E8%BF%99%E4%B9%88%E5%A4%A7%E9%9B%AA&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "首套首条首台 本周多项硬核成果上新",
-          "url": "https://m.baidu.com/s?word=%E9%A6%96%E5%A5%97%E9%A6%96%E6%9D%A1%E9%A6%96%E5%8F%B0+%E6%9C%AC%E5%91%A8%E5%A4%9A%E9%A1%B9%E7%A1%AC%E6%A0%B8%E6%88%90%E6%9E%9C%E4%B8%8A%E6%96%B0&sa=fyb_news",
+          "title": "消费“新故事”背后有一共同底色",
+          "url": "https://m.baidu.com/s?word=%E6%B6%88%E8%B4%B9%E2%80%9C%E6%96%B0%E6%95%85%E4%BA%8B%E2%80%9D%E8%83%8C%E5%90%8E%E6%9C%89%E4%B8%80%E5%85%B1%E5%90%8C%E5%BA%95%E8%89%B2&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "北京下雪了",
-          "url": "https://m.baidu.com/s?word=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA%E4%BA%86&sa=fyb_news",
+          "title": "大三男生宿舍制作AI漫剧 营收超300万",
+          "url": "https://m.baidu.com/s?word=%E5%A4%A7%E4%B8%89%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E5%88%B6%E4%BD%9CAI%E6%BC%AB%E5%89%A7+%E8%90%A5%E6%94%B6%E8%B6%85300%E4%B8%87&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "立冬吃超长长长长长长长长饺子",
-          "url": "https://m.baidu.com/s?word=%E7%AB%8B%E5%86%AC%E5%90%83%E8%B6%85%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%95%BF%E9%A5%BA%E5%AD%90&sa=fyb_news",
+          "title": "三亚频现巨型蜗牛 大如鸡蛋",
+          "url": "https://m.baidu.com/s?word=%E4%B8%89%E4%BA%9A%E9%A2%91%E7%8E%B0%E5%B7%A8%E5%9E%8B%E8%9C%97%E7%89%9B+%E5%A4%A7%E5%A6%82%E9%B8%A1%E8%9B%8B&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "“盛家最争气俩孩子相聚了”",
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E7%9B%9B%E5%AE%B6%E6%9C%80%E4%BA%89%E6%B0%94%E4%BF%A9%E5%AD%A9%E5%AD%90%E7%9B%B8%E8%81%9A%E4%BA%86%E2%80%9D&sa=fyb_news",
+          "title": "河北秦皇岛暴雪 积雪达23厘米",
+          "url": "https://m.baidu.com/s?word=%E6%B2%B3%E5%8C%97%E7%A7%A6%E7%9A%87%E5%B2%9B%E6%9A%B4%E9%9B%AA+%E7%A7%AF%E9%9B%AA%E8%BE%BE23%E5%8E%98%E7%B1%B3&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "45岁以后四个指标正常 跑赢80%的人",
-          "url": "https://m.baidu.com/s?word=45%E5%B2%81%E4%BB%A5%E5%90%8E%E5%9B%9B%E4%B8%AA%E6%8C%87%E6%A0%87%E6%AD%A3%E5%B8%B8+%E8%B7%91%E8%B5%A280%25%E7%9A%84%E4%BA%BA&sa=fyb_news",
+          "title": "女孩从小到大叫爸爸的变化好真实",
+          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%A9%E4%BB%8E%E5%B0%8F%E5%88%B0%E5%A4%A7%E5%8F%AB%E7%88%B8%E7%88%B8%E7%9A%84%E5%8F%98%E5%8C%96%E5%A5%BD%E7%9C%9F%E5%AE%9E&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "二八大杠专属的上车模式",
-          "url": "https://m.baidu.com/s?word=%E4%BA%8C%E5%85%AB%E5%A4%A7%E6%9D%A0%E4%B8%93%E5%B1%9E%E7%9A%84%E4%B8%8A%E8%BD%A6%E6%A8%A1%E5%BC%8F&sa=fyb_news",
+          "title": "林忆莲又给年轻歌手上了一课",
+          "url": "https://m.baidu.com/s?word=%E6%9E%97%E5%BF%86%E8%8E%B2%E5%8F%88%E7%BB%99%E5%B9%B4%E8%BD%BB%E6%AD%8C%E6%89%8B%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "中国籍外卖员在墨尔本遇害",
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E7%B1%8D%E5%A4%96%E5%8D%96%E5%91%98%E5%9C%A8%E5%A2%A8%E5%B0%94%E6%9C%AC%E9%81%87%E5%AE%B3&sa=fyb_news",
+          "title": "胡兵谈“纸片人”审美",
+          "url": "https://m.baidu.com/s?word=%E8%83%A1%E5%85%B5%E8%B0%88%E2%80%9C%E7%BA%B8%E7%89%87%E4%BA%BA%E2%80%9D%E5%AE%A1%E7%BE%8E&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "芒果文案组来了一群天才 ​",
-          "url": "https://m.baidu.com/s?word=%E8%8A%92%E6%9E%9C%E6%96%87%E6%A1%88%E7%BB%84%E6%9D%A5%E4%BA%86%E4%B8%80%E7%BE%A4%E5%A4%A9%E6%89%8D+%E2%80%8B&sa=fyb_news",
+          "title": "王力宏王心凌合唱《爱你》",
+          "url": "https://m.baidu.com/s?word=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%8E%8B%E5%BF%83%E5%87%8C%E5%90%88%E5%94%B1%E3%80%8A%E7%88%B1%E4%BD%A0%E3%80%8B&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "当剧本量身定做 你的经验还够用吗",
-          "url": "https://m.baidu.com/s?word=%E5%BD%93%E5%89%A7%E6%9C%AC%E9%87%8F%E8%BA%AB%E5%AE%9A%E5%81%9A+%E4%BD%A0%E7%9A%84%E7%BB%8F%E9%AA%8C%E8%BF%98%E5%A4%9F%E7%94%A8%E5%90%97&sa=fyb_news",
+          "title": "面对畸形审美裹挟 该如何保持清醒",
+          "url": "https://m.baidu.com/s?word=%E9%9D%A2%E5%AF%B9%E7%95%B8%E5%BD%A2%E5%AE%A1%E7%BE%8E%E8%A3%B9%E6%8C%9F+%E8%AF%A5%E5%A6%82%E4%BD%95%E4%BF%9D%E6%8C%81%E6%B8%85%E9%86%92&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "女子坐月子第28天 全程坚持不洗澡",
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%9D%90%E6%9C%88%E5%AD%90%E7%AC%AC28%E5%A4%A9+%E5%85%A8%E7%A8%8B%E5%9D%9A%E6%8C%81%E4%B8%8D%E6%B4%97%E6%BE%A1&sa=fyb_news",
+          "title": "妻子偷拍丈夫出轨80余次构成侵权",
+          "url": "https://m.baidu.com/s?word=%E5%A6%BB%E5%AD%90%E5%81%B7%E6%8B%8D%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A880%E4%BD%99%E6%AC%A1%E6%9E%84%E6%88%90%E4%BE%B5%E6%9D%83&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "“花一千多听个响” 这玩具突然爆火",
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E8%8A%B1%E4%B8%80%E5%8D%83%E5%A4%9A%E5%90%AC%E4%B8%AA%E5%93%8D%E2%80%9D+%E8%BF%99%E7%8E%A9%E5%85%B7%E7%AA%81%E7%84%B6%E7%88%86%E7%81%AB&sa=fyb_news",
+          "title": "月薪过万 社保缴费基数却是4000元",
+          "url": "https://m.baidu.com/s?word=%E6%9C%88%E8%96%AA%E8%BF%87%E4%B8%87+%E7%A4%BE%E4%BF%9D%E7%BC%B4%E8%B4%B9%E5%9F%BA%E6%95%B0%E5%8D%B4%E6%98%AF4000%E5%85%83&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "教育部要求高中生睡眠应达到8小时",
-          "url": "https://m.baidu.com/s?word=%E6%95%99%E8%82%B2%E9%83%A8%E8%A6%81%E6%B1%82%E9%AB%98%E4%B8%AD%E7%94%9F%E7%9D%A1%E7%9C%A0%E5%BA%94%E8%BE%BE%E5%88%B08%E5%B0%8F%E6%97%B6&sa=fyb_news",
+          "title": "工作近9年“倒欠”公司17万",
+          "url": "https://m.baidu.com/s?word=%E5%B7%A5%E4%BD%9C%E8%BF%919%E5%B9%B4%E2%80%9C%E5%80%92%E6%AC%A0%E2%80%9D%E5%85%AC%E5%8F%B817%E4%B8%87&sa=fyb_news",
           "hot": null
         }
       ]
@@ -186,79 +186,79 @@
       "count": 15,
       "items": [
         {
-          "title": "芒果文案组来了一群天才",
-          "url": "https://s.weibo.com/weibo?q=%23芒果文案组来了一群天才%23",
-          "hot": 1286812
+          "title": "多地中小学延迟到校取消早读",
+          "url": "https://s.weibo.com/weibo?q=%23多地中小学延迟到校取消早读%23",
+          "hot": 1159696
         },
         {
-          "title": "青稚老板回应被骂",
-          "url": "https://s.weibo.com/weibo?q=%23青稚老板回应被骂%23",
-          "hot": 1039842
+          "title": "最后一位开国将军王扶之逝世",
+          "url": "https://s.weibo.com/weibo?q=%23最后一位开国将军王扶之逝世%23",
+          "hot": 821784
         },
         {
-          "title": "鹏城花开共赴APEC之约",
-          "url": "https://s.weibo.com/weibo?q=%23鹏城花开共赴APEC之约%23",
-          "hot": 755700
+          "title": "今天第27个中国记者节",
+          "url": "https://s.weibo.com/weibo?q=%23今天第27个中国记者节%23",
+          "hot": 660508
         },
         {
-          "title": "抖音商城双11最后一波好券超大",
-          "url": "https://s.weibo.com/weibo?q=%23抖音商城双11最后一波好券超大%23",
-          "hot": 731111
+          "title": "厉娜回复了于正求情",
+          "url": "https://s.weibo.com/weibo?q=%23厉娜回复了于正求情%23",
+          "hot": 566618
         },
         {
-          "title": "许飞写的歌李健付费给她不要",
-          "url": "https://s.weibo.com/weibo?q=%23许飞写的歌李健付费给她不要%23",
-          "hot": 729260
+          "title": "外国人不理解中国人不用邮件办公",
+          "url": "https://s.weibo.com/weibo?q=%23外国人不理解中国人不用邮件办公%23",
+          "hot": 427937
         },
         {
-          "title": "纯稚 傲慢与偏见",
-          "url": "https://s.weibo.com/weibo?q=%23纯稚 傲慢与偏见%23",
-          "hot": 343975
+          "title": "后会友期剪辑 偏袒",
+          "url": "https://s.weibo.com/weibo?q=%23后会友期剪辑 偏袒%23",
+          "hot": 421666
         },
         {
-          "title": "Faker说很可惜BLG在半决赛遇到T1",
-          "url": "https://s.weibo.com/weibo?q=%23Faker说很可惜BLG在半决赛遇到T1%23",
-          "hot": 341185
+          "title": "杨瀚森5分钟3分5篮板",
+          "url": "https://s.weibo.com/weibo?q=%23杨瀚森5分钟3分5篮板%23",
+          "hot": 412117
         },
         {
-          "title": "创作官次元产粮局",
-          "url": "https://s.weibo.com/weibo?q=%23创作官次元产粮局%23",
-          "hot": 339836
+          "title": "青稚删除让他别和白小纯和好的回复",
+          "url": "https://s.weibo.com/weibo?q=%23青稚删除让他别和白小纯和好的回复%23",
+          "hot": 401478
         },
         {
-          "title": "夫妻入职药企1死1瘫儿子发声",
-          "url": "https://s.weibo.com/weibo?q=%23夫妻入职药企1死1瘫儿子发声%23",
-          "hot": 336531
+          "title": "Ning回应TheShy评分",
+          "url": "https://s.weibo.com/weibo?q=%23Ning回应TheShy评分%23",
+          "hot": 384869
         },
         {
-          "title": "纵火者已死被泼汽油女子起诉继承人",
-          "url": "https://s.weibo.com/weibo?q=%23纵火者已死被泼汽油女子起诉继承人%23",
-          "hot": 318142
+          "title": "王子璇太体面了",
+          "url": "https://s.weibo.com/weibo?q=%23王子璇太体面了%23",
+          "hot": 372136
         },
         {
-          "title": "许飞厉娜的画地为牢画到海外了",
-          "url": "https://s.weibo.com/weibo?q=%23许飞厉娜的画地为牢画到海外了%23",
-          "hot": 311004
+          "title": "小糯米听到刘恺威有新女友的反应",
+          "url": "https://s.weibo.com/weibo?q=%23小糯米听到刘恺威有新女友的反应%23",
+          "hot": 371916
         },
         {
-          "title": "收1.98万误转账约派出所归还却遭起诉",
-          "url": "https://s.weibo.com/weibo?q=%23收1.98万误转账约派出所归还却遭起诉%23",
-          "hot": 256379
+          "title": "终于开始查寺院了",
+          "url": "https://s.weibo.com/weibo?q=%23终于开始查寺院了%23",
+          "hot": 368895
         },
         {
-          "title": "马天宇直播被工作人员叫停",
-          "url": "https://s.weibo.com/weibo?q=%23马天宇直播被工作人员叫停%23",
-          "hot": 254696
+          "title": "青稚前女友",
+          "url": "https://s.weibo.com/weibo?q=%23青稚前女友%23",
+          "hot": 366755
         },
         {
-          "title": "张萌老公简历居然这么厉害",
-          "url": "https://s.weibo.com/weibo?q=%23张萌老公简历居然这么厉害%23",
-          "hot": 247678
+          "title": "于正回应和何晟铭上后会友期",
+          "url": "https://s.weibo.com/weibo?q=%23于正回应和何晟铭上后会友期%23",
+          "hot": 363669
         },
         {
-          "title": "李一桐回复",
-          "url": "https://s.weibo.com/weibo?q=%23李一桐回复%23",
-          "hot": 246026
+          "title": "迪丽热巴物欲超低的女明星",
+          "url": "https://s.weibo.com/weibo?q=%23迪丽热巴物欲超低的女明星%23",
+          "hot": 360486
         }
       ]
     }
