@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T04:49:15.920608+00:00",
+  "updated_at": "2026-11-12T05:51:36.741145+00:00",
   "sources": [
     {
       "name": "hackernews",
@@ -7,94 +7,94 @@
       "count": 15,
       "items": [
         {
-          "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-          "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-          "score": 353,
-          "by": "panic"
+          "title": "93% of paint splatters are valid Perl programs (2019)",
+          "url": "https://www.mcmillen.dev/sigbovik/",
+          "score": 304,
+          "by": "zenincognito"
         },
         {
-          "title": "Scion is back and is going to sell a kei truck in America",
-          "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-          "score": 393,
-          "by": "NaOH"
+          "title": "Tim Peters has died",
+          "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+          "score": 1029,
+          "by": "ayhanfuat"
         },
         {
-          "title": ".name Grandfathered",
-          "url": "https://neil.fraser.name/news/2026/11/10/",
-          "score": 732,
-          "by": "p4bl0"
+          "title": "AWS emulator",
+          "url": "https://github.com/aws/aws-emulator",
+          "score": 766,
+          "by": "super_linear"
         },
         {
-          "title": "Smart home devices should work without the internet",
-          "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-          "score": 788,
-          "by": "skittleson"
+          "title": "Critical RCE Vulnerability in Apache HTTP Server",
+          "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+          "score": 84,
+          "by": "soheilpro"
         },
         {
-          "title": "A great old-timey game-programming hack (2013)",
-          "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-          "score": 68,
-          "by": "palsecam"
+          "title": "Nvidia is preparing to oust Jensen Huang",
+          "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+          "score": 786,
+          "by": "jbredeche"
         },
         {
-          "title": "Six Math Essentials by Terence Tao",
-          "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-          "score": 174,
-          "by": "digital55"
+          "title": "Lock Your GitHub Actions",
+          "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+          "score": 191,
+          "by": "gslin"
         },
         {
-          "title": "Protecting SSH Keys with macOS Secure Enclave",
-          "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-          "score": 4,
-          "by": "js2"
+          "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+          "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+          "score": 454,
+          "by": "mbac32768"
         },
         {
-          "title": "Starlink Mini 2",
-          "url": "https://starlink.com/mini-2",
-          "score": 324,
-          "by": "robertjfclarke"
+          "title": "Gemini Decisions API",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+          "score": 351,
+          "by": "iamdelirium"
         },
         {
-          "title": "Announcing .NET 11",
-          "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
-          "score": 88,
-          "by": "runesoerensen"
+          "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+          "score": 493,
+          "by": "herpderperator"
         },
         {
-          "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
-          "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
-          "score": 24,
-          "by": "Metacelsus"
+          "title": "Darling Development Update – Q4 2026",
+          "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
+          "score": 8,
+          "by": "tech234a"
         },
         {
-          "title": "Hacking the Meta Ray-Ban smartglasses",
-          "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
-          "score": 77,
-          "by": "moooooky"
+          "title": "Did Life Begin in an RNA World?",
+          "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+          "score": 39,
+          "by": "acossta"
         },
         {
-          "title": "Val Town is winding down",
-          "url": "https://blog.val.town/winding-down",
-          "score": 336,
-          "by": "tosh"
+          "title": "Emacs in the Age of Magic",
+          "url": "https://commandlinesystems.com/magic.txt",
+          "score": 186,
+          "by": "ggcr"
         },
         {
-          "title": "AlphaProof Code",
-          "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-          "score": 594,
-          "by": "ilreb"
+          "title": "Stingray Fish Laser",
+          "url": "https://www.stingray.no/en/technology/",
+          "score": 23,
+          "by": "tptacek"
         },
         {
-          "title": "Synaptics patent claims stop work on DisplayLink drivers",
-          "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-          "score": 328,
-          "by": "speckx"
+          "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+          "url": "https://github.com/tylertms/Stela",
+          "score": 85,
+          "by": "iceboundrock"
         },
         {
-          "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-          "url": "https://github.com/GoogleChrome/modern-web-guidance",
-          "score": 308,
-          "by": "paulirish"
+          "title": "The Utah Teapot",
+          "url": "https://graphics.cs.utah.edu/teapot/",
+          "score": 115,
+          "by": "cobbal"
         }
       ]
     },
@@ -104,78 +104,78 @@
       "count": 15,
       "items": [
         {
-          "title": "总书记这样呼吁海内外全体中华儿女",
-          "url": "https://m.baidu.com/s?word=%E6%80%BB%E4%B9%A6%E8%AE%B0%E8%BF%99%E6%A0%B7%E5%91%BC%E5%90%81%E6%B5%B7%E5%86%85%E5%A4%96%E5%85%A8%E4%BD%93%E4%B8%AD%E5%8D%8E%E5%84%BF%E5%A5%B3&sa=fyb_news",
+          "title": "纪念孙中山先生诞辰160周年大会举行",
+          "url": "https://m.baidu.com/s?word=%E7%BA%AA%E5%BF%B5%E5%AD%99%E4%B8%AD%E5%B1%B1%E5%85%88%E7%94%9F%E8%AF%9E%E8%BE%B0160%E5%91%A8%E5%B9%B4%E5%A4%A7%E4%BC%9A%E4%B8%BE%E8%A1%8C&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "张雪改口 不捐给韩红基金会了",
-          "url": "https://m.baidu.com/s?word=%E5%BC%A0%E9%9B%AA%E6%94%B9%E5%8F%A3+%E4%B8%8D%E6%8D%90%E7%BB%99%E9%9F%A9%E7%BA%A2%E5%9F%BA%E9%87%91%E4%BC%9A%E4%BA%86&sa=fyb_news",
+          "title": "决不能让一个梗毁掉一个孩子",
+          "url": "https://m.baidu.com/s?word=%E5%86%B3%E4%B8%8D%E8%83%BD%E8%AE%A9%E4%B8%80%E4%B8%AA%E6%A2%97%E6%AF%81%E6%8E%89%E4%B8%80%E4%B8%AA%E5%AD%A9%E5%AD%90&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "5个上门维修师傅2个说了实话",
-          "url": "https://m.baidu.com/s?word=5%E4%B8%AA%E4%B8%8A%E9%97%A8%E7%BB%B4%E4%BF%AE%E5%B8%88%E5%82%852%E4%B8%AA%E8%AF%B4%E4%BA%86%E5%AE%9E%E8%AF%9D&sa=fyb_news",
+          "title": "腾讯裁员50%？知情人士回应",
+          "url": "https://m.baidu.com/s?word=%E8%85%BE%E8%AE%AF%E8%A3%81%E5%91%9850%25%EF%BC%9F%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E5%9B%9E%E5%BA%94&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "“效率提升百倍” 新型基础设施来了",
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%95%88%E7%8E%87%E6%8F%90%E5%8D%87%E7%99%BE%E5%80%8D%E2%80%9D+%E6%96%B0%E5%9E%8B%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E6%9D%A5%E4%BA%86&sa=fyb_news",
+          "title": "深圳准备好了！APEC氛围拉满",
+          "url": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3%E5%87%86%E5%A4%87%E5%A5%BD%E4%BA%86%EF%BC%81APEC%E6%B0%9B%E5%9B%B4%E6%8B%89%E6%BB%A1&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "梁家辉回应独自坐高铁：不是寂寞老人",
-          "url": "https://m.baidu.com/s?word=%E6%A2%81%E5%AE%B6%E8%BE%89%E5%9B%9E%E5%BA%94%E7%8B%AC%E8%87%AA%E5%9D%90%E9%AB%98%E9%93%81%EF%BC%9A%E4%B8%8D%E6%98%AF%E5%AF%82%E5%AF%9E%E8%80%81%E4%BA%BA&sa=fyb_news",
+          "title": "韩红基金会回应张雪改口",
+          "url": "https://m.baidu.com/s?word=%E9%9F%A9%E7%BA%A2%E5%9F%BA%E9%87%91%E4%BC%9A%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E6%94%B9%E5%8F%A3&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "山东回礼大连",
-          "url": "https://m.baidu.com/s?word=%E5%B1%B1%E4%B8%9C%E5%9B%9E%E7%A4%BC%E5%A4%A7%E8%BF%9E&sa=fyb_news",
+          "title": "年轻人开始寻找城市“树洞”",
+          "url": "https://m.baidu.com/s?word=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%AF%BB%E6%89%BE%E5%9F%8E%E5%B8%82%E2%80%9C%E6%A0%91%E6%B4%9E%E2%80%9D&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "“包子2元停车10元”成历史",
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%8C%85%E5%AD%902%E5%85%83%E5%81%9C%E8%BD%A610%E5%85%83%E2%80%9D%E6%88%90%E5%8E%86%E5%8F%B2&sa=fyb_news",
+          "title": "油价今晚有望大幅下降",
+          "url": "https://m.baidu.com/s?word=%E6%B2%B9%E4%BB%B7%E4%BB%8A%E6%99%9A%E6%9C%89%E6%9C%9B%E5%A4%A7%E5%B9%85%E4%B8%8B%E9%99%8D&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "300元卖掉的脸下一秒就成AI短剧主角",
-          "url": "https://m.baidu.com/s?word=300%E5%85%83%E5%8D%96%E6%8E%89%E7%9A%84%E8%84%B8%E4%B8%8B%E4%B8%80%E7%A7%92%E5%B0%B1%E6%88%90AI%E7%9F%AD%E5%89%A7%E4%B8%BB%E8%A7%92&sa=fyb_news",
+          "title": "百度世界2026",
+          "url": "https://m.baidu.com/s?word=%E7%99%BE%E5%BA%A6%E4%B8%96%E7%95%8C2026&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "拜登遇袭",
-          "url": "https://m.baidu.com/s?word=%E6%8B%9C%E7%99%BB%E9%81%87%E8%A2%AD&sa=fyb_news",
+          "title": "13岁女孩确诊“癌王” 全身多处转移",
+          "url": "https://m.baidu.com/s?word=13%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E2%80%9C%E7%99%8C%E7%8E%8B%E2%80%9D+%E5%85%A8%E8%BA%AB%E5%A4%9A%E5%A4%84%E8%BD%AC%E7%A7%BB&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "金鸡最佳导演爆冷",
-          "url": "https://m.baidu.com/s?word=%E9%87%91%E9%B8%A1%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94%E7%88%86%E5%86%B7&sa=fyb_news",
+          "title": "101岁老人面色红润：每天多梳头",
+          "url": "https://m.baidu.com/s?word=101%E5%B2%81%E8%80%81%E4%BA%BA%E9%9D%A2%E8%89%B2%E7%BA%A2%E6%B6%A6%EF%BC%9A%E6%AF%8F%E5%A4%A9%E5%A4%9A%E6%A2%B3%E5%A4%B4&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "司美格鲁肽等减肥神药或致永久失明",
-          "url": "https://m.baidu.com/s?word=%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E7%AD%89%E5%87%8F%E8%82%A5%E7%A5%9E%E8%8D%AF%E6%88%96%E8%87%B4%E6%B0%B8%E4%B9%85%E5%A4%B1%E6%98%8E&sa=fyb_news",
+          "title": "羽毛球降价竟然和猪肉有关",
+          "url": "https://m.baidu.com/s?word=%E7%BE%BD%E6%AF%9B%E7%90%83%E9%99%8D%E4%BB%B7%E7%AB%9F%E7%84%B6%E5%92%8C%E7%8C%AA%E8%82%89%E6%9C%89%E5%85%B3&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "三国营中逢诡计 马谡险入诈骗局",
-          "url": "https://m.baidu.com/s?word=%E4%B8%89%E5%9B%BD%E8%90%A5%E4%B8%AD%E9%80%A2%E8%AF%A1%E8%AE%A1+%E9%A9%AC%E8%B0%A1%E9%99%A9%E5%85%A5%E8%AF%88%E9%AA%97%E5%B1%80&sa=fyb_news",
+          "title": "警惕车辆召回谣言 已有人受骗",
+          "url": "https://m.baidu.com/s?word=%E8%AD%A6%E6%83%95%E8%BD%A6%E8%BE%86%E5%8F%AC%E5%9B%9E%E8%B0%A3%E8%A8%80+%E5%B7%B2%E6%9C%89%E4%BA%BA%E5%8F%97%E9%AA%97&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "女士取款20万给儿子当彩礼 柜员报警",
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%A3%AB%E5%8F%96%E6%AC%BE20%E4%B8%87%E7%BB%99%E5%84%BF%E5%AD%90%E5%BD%93%E5%BD%A9%E7%A4%BC+%E6%9F%9C%E5%91%98%E6%8A%A5%E8%AD%A6&sa=fyb_news",
+          "title": "马志明正式收郭德纲为义子",
+          "url": "https://m.baidu.com/s?word=%E9%A9%AC%E5%BF%97%E6%98%8E%E6%AD%A3%E5%BC%8F%E6%94%B6%E9%83%AD%E5%BE%B7%E7%BA%B2%E4%B8%BA%E4%B9%89%E5%AD%90&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "梁家辉拒绝工作人员帮拿金鸡奖杯",
-          "url": "https://m.baidu.com/s?word=%E6%A2%81%E5%AE%B6%E8%BE%89%E6%8B%92%E7%BB%9D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%B8%AE%E6%8B%BF%E9%87%91%E9%B8%A1%E5%A5%96%E6%9D%AF&sa=fyb_news",
+          "title": "霍启刚霍启山婚礼 一个双11一个双12",
+          "url": "https://m.baidu.com/s?word=%E9%9C%8D%E5%90%AF%E5%88%9A%E9%9C%8D%E5%90%AF%E5%B1%B1%E5%A9%9A%E7%A4%BC+%E4%B8%80%E4%B8%AA%E5%8F%8C11%E4%B8%80%E4%B8%AA%E5%8F%8C12&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "阿姨把患癌男同事接回家照护14年",
-          "url": "https://m.baidu.com/s?word=%E9%98%BF%E5%A7%A8%E6%8A%8A%E6%82%A3%E7%99%8C%E7%94%B7%E5%90%8C%E4%BA%8B%E6%8E%A5%E5%9B%9E%E5%AE%B6%E7%85%A7%E6%8A%A414%E5%B9%B4&sa=fyb_news",
+          "title": "四个月大的小羊怀孕 上海动物园回应",
+          "url": "https://m.baidu.com/s?word=%E5%9B%9B%E4%B8%AA%E6%9C%88%E5%A4%A7%E7%9A%84%E5%B0%8F%E7%BE%8A%E6%80%80%E5%AD%95+%E4%B8%8A%E6%B5%B7%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%9B%9E%E5%BA%94&sa=fyb_news",
           "hot": null
         }
       ]
@@ -186,79 +186,79 @@
       "count": 15,
       "items": [
         {
-          "title": "张雪冠军车拍卖款不再捐给韩红基金会",
-          "url": "https://s.weibo.com/weibo?q=%23张雪冠军车拍卖款不再捐给韩红基金会%23",
-          "hot": 1189753
+          "title": "后会友期",
+          "url": "https://s.weibo.com/weibo?q=%23后会友期%23",
+          "hot": 1606804
         },
         {
-          "title": "司美格鲁肽等减肥神药或致永久失明",
-          "url": "https://s.weibo.com/weibo?q=%23司美格鲁肽等减肥神药或致永久失明%23",
-          "hot": 886786
+          "title": "勇士火箭打架",
+          "url": "https://s.weibo.com/weibo?q=%23勇士火箭打架%23",
+          "hot": 940148
         },
         {
-          "title": "让优质教育更可及让上学选择更多元",
-          "url": "https://s.weibo.com/weibo?q=%23让优质教育更可及让上学选择更多元%23",
-          "hot": 673109
+          "title": "中国外贸跑出好成绩",
+          "url": "https://s.weibo.com/weibo?q=%23中国外贸跑出好成绩%23",
+          "hot": 849969
         },
         {
-          "title": "天猫双11十八岁生日快乐",
-          "url": "https://s.weibo.com/weibo?q=%23天猫双11十八岁生日快乐%23",
-          "hot": 664066
+          "title": "许飞 我们娜娜子",
+          "url": "https://s.weibo.com/weibo?q=%23许飞 我们娜娜子%23",
+          "hot": 826862
         },
         {
-          "title": "5个上门维修师傅2个说了实话",
-          "url": "https://s.weibo.com/weibo?q=%235个上门维修师傅2个说了实话%23",
-          "hot": 447019
+          "title": "冰尘退役",
+          "url": "https://s.weibo.com/weibo?q=%23冰尘退役%23",
+          "hot": 800248
         },
         {
-          "title": "RTX5080价格",
-          "url": "https://s.weibo.com/weibo?q=%23RTX5080价格%23",
-          "hot": 358056
+          "title": "下期青稚白小纯都哭了",
+          "url": "https://s.weibo.com/weibo?q=%23下期青稚白小纯都哭了%23",
+          "hot": 783485
         },
         {
-          "title": "高叶获奖钟楚曦哭成泪人",
-          "url": "https://s.weibo.com/weibo?q=%23高叶获奖钟楚曦哭成泪人%23",
-          "hot": 353604
+          "title": "女子产后遭丈夫拒门外每月药费6千",
+          "url": "https://s.weibo.com/weibo?q=%23女子产后遭丈夫拒门外每月药费6千%23",
+          "hot": 720998
         },
         {
-          "title": "女孩在拼豆店干坐离开前留纸条道歉",
-          "url": "https://s.weibo.com/weibo?q=%23女孩在拼豆店干坐离开前留纸条道歉%23",
-          "hot": 347865
+          "title": "没想到节目也爆了",
+          "url": "https://s.weibo.com/weibo?q=%23没想到节目也爆了%23",
+          "hot": 567876
         },
         {
-          "title": "央视曝光取消外卖短视频系摆拍",
-          "url": "https://s.weibo.com/weibo?q=%23央视曝光取消外卖短视频系摆拍%23",
-          "hot": 347623
+          "title": "压垮50岁老教师的真的是一句顶嘴吗",
+          "url": "https://s.weibo.com/weibo?q=%23压垮50岁老教师的真的是一句顶嘴吗%23",
+          "hot": 560691
         },
         {
-          "title": "今天是太阳雨31广",
-          "url": "https://s.weibo.com/weibo?q=%23今天是太阳雨31广%23",
-          "hot": 346409
+          "title": "被老师打到抽搐女孩父母常年在外务工",
+          "url": "https://s.weibo.com/weibo?q=%23被老师打到抽搐女孩父母常年在外务工%23",
+          "hot": 554941
         },
         {
-          "title": "拜登遇袭",
-          "url": "https://s.weibo.com/weibo?q=%23拜登遇袭%23",
-          "hot": 345524
+          "title": "青稚在马天宇怀里大哭",
+          "url": "https://s.weibo.com/weibo?q=%23青稚在马天宇怀里大哭%23",
+          "hot": 551250
         },
         {
-          "title": "林生斌",
-          "url": "https://s.weibo.com/weibo?q=%23林生斌%23",
-          "hot": 344325
+          "title": "大美被实名举报偷税漏税",
+          "url": "https://s.weibo.com/weibo?q=%23大美被实名举报偷税漏税%23",
+          "hot": 543060
         },
         {
-          "title": "黄景瑜只有和王雨馨那段婚姻",
-          "url": "https://s.weibo.com/weibo?q=%23黄景瑜只有和王雨馨那段婚姻%23",
-          "hot": 343577
+          "title": "徐艺洋儿子拿妈妈应援物",
+          "url": "https://s.weibo.com/weibo?q=%23徐艺洋儿子拿妈妈应援物%23",
+          "hot": 533113
         },
         {
-          "title": "扬州地震",
-          "url": "https://s.weibo.com/weibo?q=%23扬州地震%23",
-          "hot": 342853
+          "title": "赵丽颖起诉红果短剧",
+          "url": "https://s.weibo.com/weibo?q=%23赵丽颖起诉红果短剧%23",
+          "hot": 528969
         },
         {
-          "title": "许飞 厉娜",
-          "url": "https://s.weibo.com/weibo?q=%23许飞 厉娜%23",
-          "hot": 341671
+          "title": "白小纯让青稚给文吉儿表白",
+          "url": "https://s.weibo.com/weibo?q=%23白小纯让青稚给文吉儿表白%23",
+          "hot": 520658
         }
       ]
     }
