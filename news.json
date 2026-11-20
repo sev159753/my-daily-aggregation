@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T05:59:34.323575+00:00",
+  "updated_at": "2026-11-20T05:49:11.969087+00:00",
   "sources": [
     {
       "name": "hackernews",
@@ -7,94 +7,94 @@
       "count": 15,
       "items": [
         {
-          "title": "Gemini 4 Neon",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-          "score": 650,
-          "by": "yigitdemirag"
-        },
-        {
-          "title": "Unauthenticated remote code execution in Nginx",
-          "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-          "score": 1254,
-          "by": "speedping"
-        },
-        {
-          "title": "Multiple vulnerabilities in Regexp and String case conversion",
-          "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-          "score": 172,
-          "by": "runesoerensen"
-        },
-        {
-          "title": "Unreal Tournament 2004 in the Browser",
-          "url": "https://ut2004.dev/",
+          "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+          "url": "https://github.com/openssl/openssl/pull/33652",
           "score": 97,
-          "by": "TheAceOfHearts"
+          "by": "JacobHenner"
         },
         {
-          "title": "Seven new models at scalable price-performance",
-          "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-          "score": 494,
-          "by": "gmays"
+          "title": "GIMP now has UI tests",
+          "url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
+          "score": 36,
+          "by": "qtqtqt"
         },
         {
-          "title": "Inside Deutsche Bank",
-          "url": "https://www.inside-db.com/",
-          "score": 616,
-          "by": "gyre007"
+          "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+          "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+          "score": 40,
+          "by": "craigkerstiens"
         },
         {
-          "title": "Camera Index",
-          "url": "https://www.cameraindex.co.uk/",
-          "score": 14,
-          "by": "bookofjoe"
+          "title": "Vint Cerf on why TCP/IP was never patented",
+          "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+          "score": 70,
+          "by": "emot"
         },
         {
-          "title": "LLM assisted reverse engineering",
-          "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-          "score": 129,
-          "by": "ioma8"
+          "title": "Claude solves two open problems in the physics of black holes",
+          "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+          "score": 448,
+          "by": "cybermango"
         },
         {
-          "title": "DaisyRose-27B",
-          "url": "https://www.radixark.com/blog/daisyrose-27b",
-          "score": 174,
-          "by": "de_sty"
+          "title": "How to CAD Almost Anything",
+          "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+          "score": 198,
+          "by": "o4c"
         },
         {
-          "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
-          "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
-          "score": 88,
-          "by": "kusha"
+          "title": "Garage Door Spam",
+          "url": "https://blog.harrison.page/garage-door-spam/",
+          "score": 809,
+          "by": "harrisonpage"
         },
         {
-          "title": "Mosquitoes are Ladakh's latest tourists",
-          "url": "https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists",
-          "score": 28,
-          "by": "akbarnama"
+          "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+          "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+          "score": 27,
+          "by": "mraniki"
         },
         {
-          "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
-          "url": "https://arxiv.org/abs/2607.29378",
-          "score": 34,
-          "by": "dalmo3"
+          "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
+          "url": "https://notesbylex.com/weight-space-programming-1990s",
+          "score": 46,
+          "by": "lexandstuff"
         },
         {
-          "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
-          "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
-          "score": 256,
-          "by": "DeepLogin"
+          "title": "Anthropic’s Nasdaq debut",
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+          "score": 1026,
+          "by": "wslh"
         },
         {
-          "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-          "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-          "score": 189,
-          "by": "seizethecheese"
+          "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+          "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+          "score": 244,
+          "by": "dev1one1"
         },
         {
-          "title": "We need smart people who give a shit",
-          "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
-          "score": 384,
-          "by": "ExMachina73"
+          "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+          "url": "https://github.com/onlook-dev/onlook/",
+          "score": 100,
+          "by": "D_R_Farrell"
+        },
+        {
+          "title": "FFmpeg 9.1 'Gauss'",
+          "url": "https://ffmpeg.org/download.html#release_9.1",
+          "score": 13,
+          "by": "gyan"
+        },
+        {
+          "title": "Someone reported java4shell bug in September 2026",
+          "url": "https://github.com/openjdk/jdk/pull/32781",
+          "score": 400,
+          "by": "notmine1337"
+        },
+        {
+          "title": "Automatic Checking of Compiler Correctness with E-Graphs",
+          "url": "https://stng.substack.com/p/automatic-checking-of-compiler-correctness",
+          "score": 10,
+          "by": "g0xA52A2A"
         }
       ]
     },
@@ -104,78 +104,78 @@
       "count": 15,
       "items": [
         {
-          "title": "与时偕行 共创亚太光明未来",
-          "url": "https://m.baidu.com/s?word=%E4%B8%8E%E6%97%B6%E5%81%95%E8%A1%8C+%E5%85%B1%E5%88%9B%E4%BA%9A%E5%A4%AA%E5%85%89%E6%98%8E%E6%9C%AA%E6%9D%A5&sa=fyb_news",
+          "title": "大国外交的“深圳时刻”",
+          "url": "https://m.baidu.com/s?word=%E5%A4%A7%E5%9B%BD%E5%A4%96%E4%BA%A4%E7%9A%84%E2%80%9C%E6%B7%B1%E5%9C%B3%E6%97%B6%E5%88%BB%E2%80%9D&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "习近平会见美国总统特朗普",
-          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE&sa=fyb_news",
+          "title": "全妆深圳美得像小说里的A市",
+          "url": "https://m.baidu.com/s?word=%E5%85%A8%E5%A6%86%E6%B7%B1%E5%9C%B3%E7%BE%8E%E5%BE%97%E5%83%8F%E5%B0%8F%E8%AF%B4%E9%87%8C%E7%9A%84A%E5%B8%82&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "APEC领导人互相整理围巾",
-          "url": "https://m.baidu.com/s?word=APEC%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BA%92%E7%9B%B8%E6%95%B4%E7%90%86%E5%9B%B4%E5%B7%BE&sa=fyb_news",
+          "title": "12306迎来重大更新",
+          "url": "https://m.baidu.com/s?word=12306%E8%BF%8E%E6%9D%A5%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "APEC时间 外媒记者点赞深圳",
-          "url": "https://m.baidu.com/s?word=APEC%E6%97%B6%E9%97%B4+%E5%A4%96%E5%AA%92%E8%AE%B0%E8%80%85%E7%82%B9%E8%B5%9E%E6%B7%B1%E5%9C%B3&sa=fyb_news",
+          "title": "亚太经合组织互联互通蓝图",
+          "url": "https://m.baidu.com/s?word=%E4%BA%9A%E5%A4%AA%E7%BB%8F%E5%90%88%E7%BB%84%E7%BB%87%E4%BA%92%E8%81%94%E4%BA%92%E9%80%9A%E8%93%9D%E5%9B%BE&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "特朗普：期待同习主席、普京总统会晤",
-          "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9C%9F%E5%BE%85%E5%90%8C%E4%B9%A0%E4%B8%BB%E5%B8%AD%E3%80%81%E6%99%AE%E4%BA%AC%E6%80%BB%E7%BB%9F%E4%BC%9A%E6%99%A4&sa=fyb_news",
+          "title": "亮相APEC晚宴的荔枝冰酒已全线售罄",
+          "url": "https://m.baidu.com/s?word=%E4%BA%AE%E7%9B%B8APEC%E6%99%9A%E5%AE%B4%E7%9A%84%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E5%B7%B2%E5%85%A8%E7%BA%BF%E5%94%AE%E7%BD%84&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "APEC全家福",
-          "url": "https://m.baidu.com/s?word=APEC%E5%85%A8%E5%AE%B6%E7%A6%8F&sa=fyb_news",
+          "title": "厦门大学收到捐款1亿元",
+          "url": "https://m.baidu.com/s?word=%E5%8E%A6%E9%97%A8%E5%A4%A7%E5%AD%A6%E6%94%B6%E5%88%B0%E6%8D%90%E6%AC%BE1%E4%BA%BF%E5%85%83&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "马斯克小儿子玩具都是中国制造",
-          "url": "https://m.baidu.com/s?word=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%8F%E5%84%BF%E5%AD%90%E7%8E%A9%E5%85%B7%E9%83%BD%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0&sa=fyb_news",
+          "title": "“全球最大医院”原党委书记被双开",
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%8C%BB%E9%99%A2%E2%80%9D%E5%8E%9F%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A2%AB%E5%8F%8C%E5%BC%80&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "APEC围巾图案取自“中国年”会标",
-          "url": "https://m.baidu.com/s?word=APEC%E5%9B%B4%E5%B7%BE%E5%9B%BE%E6%A1%88%E5%8F%96%E8%87%AA%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D%E4%BC%9A%E6%A0%87&sa=fyb_news",
+          "title": "新娘跟妆日薪四五千",
+          "url": "https://m.baidu.com/s?word=%E6%96%B0%E5%A8%98%E8%B7%9F%E5%A6%86%E6%97%A5%E8%96%AA%E5%9B%9B%E4%BA%94%E5%8D%83&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "华为将发布首款超薄智能手表",
-          "url": "https://m.baidu.com/s?word=%E5%8D%8E%E4%B8%BA%E5%B0%86%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E8%B6%85%E8%96%84%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8&sa=fyb_news",
+          "title": "白居易笔下的名场面在西安具象化了",
+          "url": "https://m.baidu.com/s?word=%E7%99%BD%E5%B1%85%E6%98%93%E7%AC%94%E4%B8%8B%E7%9A%84%E5%90%8D%E5%9C%BA%E9%9D%A2%E5%9C%A8%E8%A5%BF%E5%AE%89%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "从一枚车厘子读懂亚太合作的甜头",
-          "url": "https://m.baidu.com/s?word=%E4%BB%8E%E4%B8%80%E6%9E%9A%E8%BD%A6%E5%8E%98%E5%AD%90%E8%AF%BB%E6%87%82%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E7%9A%84%E7%94%9C%E5%A4%B4&sa=fyb_news",
+          "title": "当一天深圳人",
+          "url": "https://m.baidu.com/s?word=%E5%BD%93%E4%B8%80%E5%A4%A9%E6%B7%B1%E5%9C%B3%E4%BA%BA&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "深圳市民在街头偶遇各国政要",
-          "url": "https://m.baidu.com/s?word=%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%B0%91%E5%9C%A8%E8%A1%97%E5%A4%B4%E5%81%B6%E9%81%87%E5%90%84%E5%9B%BD%E6%94%BF%E8%A6%81&sa=fyb_news",
+          "title": "网店挂出1分钱睡衣引200万人下单",
+          "url": "https://m.baidu.com/s?word=%E7%BD%91%E5%BA%97%E6%8C%82%E5%87%BA1%E5%88%86%E9%92%B1%E7%9D%A1%E8%A1%A3%E5%BC%95200%E4%B8%87%E4%BA%BA%E4%B8%8B%E5%8D%95&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "摘掉小番茄“甜=长胖”标签",
-          "url": "https://m.baidu.com/s?word=%E6%91%98%E6%8E%89%E5%B0%8F%E7%95%AA%E8%8C%84%E2%80%9C%E7%94%9C%3D%E9%95%BF%E8%83%96%E2%80%9D%E6%A0%87%E7%AD%BE&sa=fyb_news",
+          "title": "解锁食物背后的健康真相",
+          "url": "https://m.baidu.com/s?word=%E8%A7%A3%E9%94%81%E9%A3%9F%E7%89%A9%E8%83%8C%E5%90%8E%E7%9A%84%E5%81%A5%E5%BA%B7%E7%9C%9F%E7%9B%B8&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "女子吐槽和老公出门总被认成母子",
-          "url": "https://m.baidu.com/s?word=%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E5%92%8C%E8%80%81%E5%85%AC%E5%87%BA%E9%97%A8%E6%80%BB%E8%A2%AB%E8%AE%A4%E6%88%90%E6%AF%8D%E5%AD%90&sa=fyb_news",
+          "title": "20多天婴儿被喂白开水中毒肾损伤",
+          "url": "https://m.baidu.com/s?word=20%E5%A4%9A%E5%A4%A9%E5%A9%B4%E5%84%BF%E8%A2%AB%E5%96%82%E7%99%BD%E5%BC%80%E6%B0%B4%E4%B8%AD%E6%AF%92%E8%82%BE%E6%8D%9F%E4%BC%A4&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "“多让孩子啃苹果能省下一个金镯子”",
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%A4%9A%E8%AE%A9%E5%AD%A9%E5%AD%90%E5%95%83%E8%8B%B9%E6%9E%9C%E8%83%BD%E7%9C%81%E4%B8%8B%E4%B8%80%E4%B8%AA%E9%87%91%E9%95%AF%E5%AD%90%E2%80%9D&sa=fyb_news",
+          "title": "厉娜发的流水印章盖在马赛克上",
+          "url": "https://m.baidu.com/s?word=%E5%8E%89%E5%A8%9C%E5%8F%91%E7%9A%84%E6%B5%81%E6%B0%B4%E5%8D%B0%E7%AB%A0%E7%9B%96%E5%9C%A8%E9%A9%AC%E8%B5%9B%E5%85%8B%E4%B8%8A&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "特朗普和普京握手并拍了拍肩膀",
-          "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E6%99%AE%E4%BA%AC%E6%8F%A1%E6%89%8B%E5%B9%B6%E6%8B%8D%E4%BA%86%E6%8B%8D%E8%82%A9%E8%86%80&sa=fyb_news",
+          "title": "饭店88元红烧“小鸡”实为候鸟",
+          "url": "https://m.baidu.com/s?word=%E9%A5%AD%E5%BA%9788%E5%85%83%E7%BA%A2%E7%83%A7%E2%80%9C%E5%B0%8F%E9%B8%A1%E2%80%9D%E5%AE%9E%E4%B8%BA%E5%80%99%E9%B8%9F&sa=fyb_news",
           "hot": null
         }
       ]
@@ -186,79 +186,79 @@
       "count": 15,
       "items": [
         {
-          "title": "中美元首深圳会晤",
-          "url": "https://s.weibo.com/weibo?q=%23中美元首深圳会晤%23",
-          "hot": 1063599
+          "title": "小米18",
+          "url": "https://s.weibo.com/weibo?q=%23小米18%23",
+          "hot": 1105752
         },
         {
-          "title": "特朗普在车内未拉窗帘欣赏深圳夜景",
-          "url": "https://s.weibo.com/weibo?q=%23特朗普在车内未拉窗帘欣赏深圳夜景%23",
-          "hot": 774982
+          "title": "特朗普给中俄美元首会晤打12分",
+          "url": "https://s.weibo.com/weibo?q=%23特朗普给中俄美元首会晤打12分%23",
+          "hot": 813889
         },
         {
-          "title": "一图看中国与APEC经济体双向奔赴",
-          "url": "https://s.weibo.com/weibo?q=%23一图看中国与APEC经济体双向奔赴%23",
-          "hot": 587018
+          "title": "这是APEC互联互通蓝图",
+          "url": "https://s.weibo.com/weibo?q=%23这是APEC互联互通蓝图%23",
+          "hot": 696214
         },
         {
-          "title": "后会友期观察室 努力是天赋",
-          "url": "https://s.weibo.com/weibo?q=%23后会友期观察室 努力是天赋%23",
-          "hot": 586709
+          "title": "刘琳全程脱稿配音俄语",
+          "url": "https://s.weibo.com/weibo?q=%23刘琳全程脱稿配音俄语%23",
+          "hot": 659986
         },
         {
-          "title": "中俄美元首座驾首次同框",
-          "url": "https://s.weibo.com/weibo?q=%23中俄美元首座驾首次同框%23",
-          "hot": 585819
+          "title": "Anthropic上市的画面也太诡异了",
+          "url": "https://s.weibo.com/weibo?q=%23Anthropic上市的画面也太诡异了%23",
+          "hot": 610841
         },
         {
-          "title": "王子璇说只有文吉儿换了软卧包间",
-          "url": "https://s.weibo.com/weibo?q=%23王子璇说只有文吉儿换了软卧包间%23",
-          "hot": 585538
+          "title": "文吉儿一靠近王子璇就转身",
+          "url": "https://s.weibo.com/weibo?q=%23文吉儿一靠近王子璇就转身%23",
+          "hot": 610369
         },
         {
-          "title": "大学生喜爱内容共创计划",
-          "url": "https://s.weibo.com/weibo?q=%23大学生喜爱内容共创计划%23",
-          "hot": 584473
+          "title": "文班亚马跳投式扣篮",
+          "url": "https://s.weibo.com/weibo?q=%23文班亚马跳投式扣篮%23",
+          "hot": 608984
         },
         {
-          "title": "青稚 先救根儿",
-          "url": "https://s.weibo.com/weibo?q=%23青稚 先救根儿%23",
-          "hot": 584254
+          "title": "空军一号连续飞行超14小时",
+          "url": "https://s.weibo.com/weibo?q=%23空军一号连续飞行超14小时%23",
+          "hot": 602290
         },
         {
-          "title": "马斯克称是中国的超级粉丝",
-          "url": "https://s.weibo.com/weibo?q=%23马斯克称是中国的超级粉丝%23",
-          "hot": 584197
+          "title": "一图读懂APEC合作如何惠及百姓生活",
+          "url": "https://s.weibo.com/weibo?q=%23一图读懂APEC合作如何惠及百姓生活%23",
+          "hot": 588521
         },
         {
-          "title": "APEC中国年亚太共同体建设启新程",
-          "url": "https://s.weibo.com/weibo?q=%23APEC中国年亚太共同体建设启新程%23",
-          "hot": 583389
+          "title": "金价跌至7字头专家不建议盲目抄底",
+          "url": "https://s.weibo.com/weibo?q=%23金价跌至7字头专家不建议盲目抄底%23",
+          "hot": 583832
         },
         {
-          "title": "后会友期",
-          "url": "https://s.weibo.com/weibo?q=%23后会友期%23",
-          "hot": 573877
+          "title": "股市",
+          "url": "https://s.weibo.com/weibo?q=%23股市%23",
+          "hot": 577891
         },
         {
-          "title": "胖东来撤走后降到四百万依然没有人接盘",
-          "url": "https://s.weibo.com/weibo?q=%23胖东来撤走后降到四百万依然没有人接盘%23",
-          "hot": 572659
+          "title": "纯稚 倒贴",
+          "url": "https://s.weibo.com/weibo?q=%23纯稚 倒贴%23",
+          "hot": 568986
         },
         {
-          "title": "纯稚",
-          "url": "https://s.weibo.com/weibo?q=%23纯稚%23",
-          "hot": 563763
+          "title": "Jennie现在走的路线有点太夸张",
+          "url": "https://s.weibo.com/weibo?q=%23Jennie现在走的路线有点太夸张%23",
+          "hot": 558816
         },
         {
-          "title": "白敬亭开美颜后秒变张踩玲",
-          "url": "https://s.weibo.com/weibo?q=%23白敬亭开美颜后秒变张踩玲%23",
-          "hot": 560698
+          "title": "李勒优大号自己弄回来了",
+          "url": "https://s.weibo.com/weibo?q=%23李勒优大号自己弄回来了%23",
+          "hot": 558011
         },
         {
-          "title": "甄嬛传剧组故意没让颖儿学礼仪",
-          "url": "https://s.weibo.com/weibo?q=%23甄嬛传剧组故意没让颖儿学礼仪%23",
-          "hot": 557333
+          "title": "严浩翔嘉人 审美",
+          "url": "https://s.weibo.com/weibo?q=%23严浩翔嘉人 审美%23",
+          "hot": 432191
         }
       ]
     }
