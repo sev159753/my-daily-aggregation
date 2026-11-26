@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T07:06:21.796155+00:00",
+  "updated_at": "2026-11-26T06:57:19.614968+00:00",
   "sources": [
     {
       "name": "hackernews",
@@ -7,94 +7,94 @@
       "count": 15,
       "items": [
         {
-          "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-          "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-          "score": 472,
-          "by": "E-Reverance"
+          "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+          "url": "https://scottaaronson.blog/?p=10379",
+          "score": 1298,
+          "by": "Kotlopou"
         },
         {
-          "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-          "url": "https://buttons.joshwcomeau.com/",
-          "score": 199,
-          "by": "gaurang_tandon"
+          "title": "1Password Security Incident",
+          "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+          "score": 1331,
+          "by": "lxhrstn"
         },
         {
-          "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-          "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-          "score": 125,
-          "by": "hoodied"
+          "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+          "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+          "score": 31,
+          "by": "joonehur"
         },
         {
-          "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-          "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-          "score": 161,
-          "by": "gmays"
+          "title": "Much shorter version of GRH Lean verification from Anthropic",
+          "url": "https://github.com/lsernau/grh-lean",
+          "score": 406,
+          "by": "nb-t"
         },
         {
-          "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-          "url": "https://gpu-demo-gallery.pages.dev/",
-          "score": 49,
-          "by": "arkits"
+          "title": "Tell HN: Lots of Ask HNs again",
+          "url": "https://news.ycombinator.com/item?id=50649864",
+          "score": 222,
+          "by": "dang"
         },
         {
-          "title": "I've been drinking wine in my kitchen",
-          "url": "https://scottaaronson.blog/?p=10362",
-          "score": 130,
-          "by": "nill0"
+          "title": "Minipg: PostgreSQL as a Single Executable",
+          "url": "https://progrium.github.io/minipg/",
+          "score": 60,
+          "by": "rguiscard"
         },
         {
-          "title": "Ternary Bonsai 2.5 27B",
-          "url": "https://prismml.com/news/bonsai-2-5-27b",
-          "score": 419,
-          "by": "b0m"
+          "title": "Collection of preserved UI style guides",
+          "url": "https://aresluna.org/ui-style-guides/",
+          "score": 107,
+          "by": "sohkamyung"
         },
         {
-          "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-          "url": "https://greydanus.github.io/2026/11/12/pengpt/",
-          "score": 191,
-          "by": "smusamashah"
-        },
-        {
-          "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-          "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-          "score": 69,
-          "by": "Curiositry"
-        },
-        {
-          "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
-          "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-          "score": 102,
+          "title": "What VP ≠ VNP Means (In 3 Minutes)",
+          "url": "https://www.friedgil.com/vpvnp",
+          "score": 87,
           "by": "vinhnx"
         },
         {
-          "title": "Taking over US Treasury subdomains for $3 each",
-          "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
-          "score": 33,
-          "by": "negura"
+          "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+          "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+          "score": 58,
+          "by": "Michelangelo11"
         },
         {
-          "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-          "url": "https://www.proofatlas.ai/open-problems/",
-          "score": 38,
-          "by": "ijidak"
+          "title": "Slow Ubuntu security response times",
+          "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+          "score": 243,
+          "by": "gslin"
         },
         {
-          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-          "score": 239,
-          "by": "acossta"
+          "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+          "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+          "score": 344,
+          "by": "bjin"
         },
         {
-          "title": "When in Doubt, Flail About",
-          "url": "https://www.seangoedecke.com/when-in-doubt-flail-about/",
-          "score": 8,
-          "by": "zdw"
+          "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+          "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+          "score": 465,
+          "by": "gumby"
         },
         {
-          "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
-          "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
-          "score": 46,
-          "by": "octember"
+          "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+          "score": 143,
+          "by": "Herrera"
+        },
+        {
+          "title": "Show HN: Synth Patch Hero",
+          "url": "https://swarkentin.github.io/synth-patch-hero/",
+          "score": 6,
+          "by": "kaidon"
+        },
+        {
+          "title": "Qualcomm's Oryon 3 Reaches the Top",
+          "url": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+          "score": 27,
+          "by": "wmf"
         }
       ]
     },
@@ -104,78 +104,78 @@
       "count": 15,
       "items": [
         {
-          "title": "习近平总书记深情寄语航天工作者",
-          "url": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%B7%B1%E6%83%85%E5%AF%84%E8%AF%AD%E8%88%AA%E5%A4%A9%E5%B7%A5%E4%BD%9C%E8%80%85&sa=fyb_news",
+          "title": "“开放是深圳与生俱来的基因”",
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E5%BC%80%E6%94%BE%E6%98%AF%E6%B7%B1%E5%9C%B3%E4%B8%8E%E7%94%9F%E4%BF%B1%E6%9D%A5%E7%9A%84%E5%9F%BA%E5%9B%A0%E2%80%9D&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "中外航天员实现首次“太空握手”",
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%A4%96%E8%88%AA%E5%A4%A9%E5%91%98%E5%AE%9E%E7%8E%B0%E9%A6%96%E6%AC%A1%E2%80%9C%E5%A4%AA%E7%A9%BA%E6%8F%A1%E6%89%8B%E2%80%9D&sa=fyb_news",
+          "title": "陈吉宁落马5天前曾现身",
+          "url": "https://m.baidu.com/s?word=%E9%99%88%E5%90%89%E5%AE%81%E8%90%BD%E9%A9%AC5%E5%A4%A9%E5%89%8D%E6%9B%BE%E7%8E%B0%E8%BA%AB&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "三种流感毒株叠加来袭",
-          "url": "https://m.baidu.com/s?word=%E4%B8%89%E7%A7%8D%E6%B5%81%E6%84%9F%E6%AF%92%E6%A0%AA%E5%8F%A0%E5%8A%A0%E6%9D%A5%E8%A2%AD&sa=fyb_news",
+          "title": "普京在深圳下榻酒店留下亲笔签名",
+          "url": "https://m.baidu.com/s?word=%E6%99%AE%E4%BA%AC%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%8B%E6%A6%BB%E9%85%92%E5%BA%97%E7%95%99%E4%B8%8B%E4%BA%B2%E7%AC%94%E7%AD%BE%E5%90%8D&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "照护“一老一小” 服务体系如何搭建",
-          "url": "https://m.baidu.com/s?word=%E7%85%A7%E6%8A%A4%E2%80%9C%E4%B8%80%E8%80%81%E4%B8%80%E5%B0%8F%E2%80%9D+%E6%9C%8D%E5%8A%A1%E4%BD%93%E7%B3%BB%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA&sa=fyb_news",
+          "title": "“购物开箱”打开认知中国新视角",
+          "url": "https://m.baidu.com/s?word=%E2%80%9C%E8%B4%AD%E7%89%A9%E5%BC%80%E7%AE%B1%E2%80%9D%E6%89%93%E5%BC%80%E8%AE%A4%E7%9F%A5%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%A7%86%E8%A7%92&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "弟弟为独吞133万遗产翻脸不认姐姐",
-          "url": "https://m.baidu.com/s?word=%E5%BC%9F%E5%BC%9F%E4%B8%BA%E7%8B%AC%E5%90%9E133%E4%B8%87%E9%81%97%E4%BA%A7%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E5%A7%90%E5%A7%90&sa=fyb_news",
+          "title": "内娱为何被吐槽“世袭制”",
+          "url": "https://m.baidu.com/s?word=%E5%86%85%E5%A8%B1%E4%B8%BA%E4%BD%95%E8%A2%AB%E5%90%90%E6%A7%BD%E2%80%9C%E4%B8%96%E8%A2%AD%E5%88%B6%E2%80%9D&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "“数学回不到从前了”",
-          "url": "https://m.baidu.com/s?word=%E2%80%9C%E6%95%B0%E5%AD%A6%E5%9B%9E%E4%B8%8D%E5%88%B0%E4%BB%8E%E5%89%8D%E4%BA%86%E2%80%9D&sa=fyb_news",
+          "title": "两个人迟到的婚礼 全村全网都在操心",
+          "url": "https://m.baidu.com/s?word=%E4%B8%A4%E4%B8%AA%E4%BA%BA%E8%BF%9F%E5%88%B0%E7%9A%84%E5%A9%9A%E7%A4%BC+%E5%85%A8%E6%9D%91%E5%85%A8%E7%BD%91%E9%83%BD%E5%9C%A8%E6%93%8D%E5%BF%83&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "特朗普说的漂亮帽子可能不在中国菜上",
-          "url": "https://m.baidu.com/s?word=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E7%9A%84%E6%BC%82%E4%BA%AE%E5%B8%BD%E5%AD%90%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%8F%9C%E4%B8%8A&sa=fyb_news",
+          "title": "初三男生被清华大学“预定”",
+          "url": "https://m.baidu.com/s?word=%E5%88%9D%E4%B8%89%E7%94%B7%E7%94%9F%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E2%80%9C%E9%A2%84%E5%AE%9A%E2%80%9D&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "巴基斯坦人齐唱国歌欢呼鼓掌",
-          "url": "https://m.baidu.com/s?word=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E4%BA%BA%E9%BD%90%E5%94%B1%E5%9B%BD%E6%AD%8C%E6%AC%A2%E5%91%BC%E9%BC%93%E6%8E%8C&sa=fyb_news",
+          "title": "980元摆件用7年被碰坏 酒店索赔3000",
+          "url": "https://m.baidu.com/s?word=980%E5%85%83%E6%91%86%E4%BB%B6%E7%94%A87%E5%B9%B4%E8%A2%AB%E7%A2%B0%E5%9D%8F+%E9%85%92%E5%BA%97%E7%B4%A2%E8%B5%943000&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "中外航天员在中国空间站合影",
-          "url": "https://m.baidu.com/s?word=%E4%B8%AD%E5%A4%96%E8%88%AA%E5%A4%A9%E5%91%98%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%90%88%E5%BD%B1&sa=fyb_news",
+          "title": "林更新《两京十五日》造型像钟离权",
+          "url": "https://m.baidu.com/s?word=%E6%9E%97%E6%9B%B4%E6%96%B0%E3%80%8A%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E3%80%8B%E9%80%A0%E5%9E%8B%E5%83%8F%E9%92%9F%E7%A6%BB%E6%9D%83&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "汤洪波母亲看完直播就去喂猪喂鸡",
-          "url": "https://m.baidu.com/s?word=%E6%B1%A4%E6%B4%AA%E6%B3%A2%E6%AF%8D%E4%BA%B2%E7%9C%8B%E5%AE%8C%E7%9B%B4%E6%92%AD%E5%B0%B1%E5%8E%BB%E5%96%82%E7%8C%AA%E5%96%82%E9%B8%A1&sa=fyb_news",
+          "title": "男子家中搜到诅咒自家8岁孩子WiFi名",
+          "url": "https://m.baidu.com/s?word=%E7%94%B7%E5%AD%90%E5%AE%B6%E4%B8%AD%E6%90%9C%E5%88%B0%E8%AF%85%E5%92%92%E8%87%AA%E5%AE%B68%E5%B2%81%E5%AD%A9%E5%AD%90WiFi%E5%90%8D&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "高颜值学霸转行当演员 高考667分",
-          "url": "https://m.baidu.com/s?word=%E9%AB%98%E9%A2%9C%E5%80%BC%E5%AD%A6%E9%9C%B8%E8%BD%AC%E8%A1%8C%E5%BD%93%E6%BC%94%E5%91%98+%E9%AB%98%E8%80%83667%E5%88%86&sa=fyb_news",
+          "title": "为什么景区大门到景点总有一段长路",
+          "url": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%99%AF%E5%8C%BA%E5%A4%A7%E9%97%A8%E5%88%B0%E6%99%AF%E7%82%B9%E6%80%BB%E6%9C%89%E4%B8%80%E6%AE%B5%E9%95%BF%E8%B7%AF&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "护卫银发与童心 让网络温暖无虞",
-          "url": "https://m.baidu.com/s?word=%E6%8A%A4%E5%8D%AB%E9%93%B6%E5%8F%91%E4%B8%8E%E7%AB%A5%E5%BF%83+%E8%AE%A9%E7%BD%91%E7%BB%9C%E6%B8%A9%E6%9A%96%E6%97%A0%E8%99%9E&sa=fyb_news",
+          "title": "别被冲锋衣“无氟”营销带偏",
+          "url": "https://m.baidu.com/s?word=%E5%88%AB%E8%A2%AB%E5%86%B2%E9%94%8B%E8%A1%A3%E2%80%9C%E6%97%A0%E6%B0%9F%E2%80%9D%E8%90%A5%E9%94%80%E5%B8%A6%E5%81%8F&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "老师称裤子钻进老鼠捏住继续讲课",
-          "url": "https://m.baidu.com/s?word=%E8%80%81%E5%B8%88%E7%A7%B0%E8%A3%A4%E5%AD%90%E9%92%BB%E8%BF%9B%E8%80%81%E9%BC%A0%E6%8D%8F%E4%BD%8F%E7%BB%A7%E7%BB%AD%E8%AE%B2%E8%AF%BE&sa=fyb_news",
+          "title": "刘涛连法令纹都这么美",
+          "url": "https://m.baidu.com/s?word=%E5%88%98%E6%B6%9B%E8%BF%9E%E6%B3%95%E4%BB%A4%E7%BA%B9%E9%83%BD%E8%BF%99%E4%B9%88%E7%BE%8E&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "德国外长震惊：从未见过这样的干预",
-          "url": "https://m.baidu.com/s?word=%E5%BE%B7%E5%9B%BD%E5%A4%96%E9%95%BF%E9%9C%87%E6%83%8A%EF%BC%9A%E4%BB%8E%E6%9C%AA%E8%A7%81%E8%BF%87%E8%BF%99%E6%A0%B7%E7%9A%84%E5%B9%B2%E9%A2%84&sa=fyb_news",
+          "title": "马天宇还没有加回张萌的微信",
+          "url": "https://m.baidu.com/s?word=%E9%A9%AC%E5%A4%A9%E5%AE%87%E8%BF%98%E6%B2%A1%E6%9C%89%E5%8A%A0%E5%9B%9E%E5%BC%A0%E8%90%8C%E7%9A%84%E5%BE%AE%E4%BF%A1&sa=fyb_news",
           "hot": null
         },
         {
-          "title": "国台办回应高市早苗最新涉台表态",
-          "url": "https://m.baidu.com/s?word=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%9C%80%E6%96%B0%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81&sa=fyb_news",
+          "title": "蔡磊回应“病情进入终末期”",
+          "url": "https://m.baidu.com/s?word=%E8%94%A1%E7%A3%8A%E5%9B%9E%E5%BA%94%E2%80%9C%E7%97%85%E6%83%85%E8%BF%9B%E5%85%A5%E7%BB%88%E6%9C%AB%E6%9C%9F%E2%80%9D&sa=fyb_news",
           "hot": null
         }
       ]
@@ -186,79 +186,79 @@
       "count": 15,
       "items": [
         {
-          "title": "弟弟为独吞133万遗产翻脸不认姐姐",
-          "url": "https://s.weibo.com/weibo?q=%23弟弟为独吞133万遗产翻脸不认姐姐%23",
-          "hot": 1892119
+          "title": "画地为牢 错位",
+          "url": "https://s.weibo.com/weibo?q=%23画地为牢 错位%23",
+          "hot": 1167625
         },
         {
-          "title": "青春有你3",
-          "url": "https://s.weibo.com/weibo?q=%23青春有你3%23",
-          "hot": 1061981
+          "title": "A股得拿稳了",
+          "url": "https://s.weibo.com/weibo?q=%23A股得拿稳了%23",
+          "hot": 848707
         },
         {
-          "title": "亚太合作鹏程万里",
-          "url": "https://s.weibo.com/weibo?q=%23亚太合作鹏程万里%23",
-          "hot": 868807
+          "title": "从5到24看载人航天之路",
+          "url": "https://s.weibo.com/weibo?q=%23从5到24看载人航天之路%23",
+          "hot": 656152
         },
         {
-          "title": "白小纯 体坛",
-          "url": "https://s.weibo.com/weibo?q=%23白小纯 体坛%23",
-          "hot": 787319
+          "title": "画地为牢终于来了",
+          "url": "https://s.weibo.com/weibo?q=%23画地为牢终于来了%23",
+          "hot": 655549
         },
         {
-          "title": "可口可乐不再标生产日期",
-          "url": "https://s.weibo.com/weibo?q=%23可口可乐不再标生产日期%23",
-          "hot": 534660
+          "title": "马天宇想分遗产的朋友是谁",
+          "url": "https://s.weibo.com/weibo?q=%23马天宇想分遗产的朋友是谁%23",
+          "hot": 652071
         },
         {
-          "title": "还有什么是红果短剧不敢编的",
-          "url": "https://s.weibo.com/weibo?q=%23还有什么是红果短剧不敢编的%23",
-          "hot": 525698
+          "title": "男子花700万买房搜到诅咒孩子WiFi名",
+          "url": "https://s.weibo.com/weibo?q=%23男子花700万买房搜到诅咒孩子WiFi名%23",
+          "hot": 644014
         },
         {
-          "title": "朱珠演了个斑秃富太",
-          "url": "https://s.weibo.com/weibo?q=%23朱珠演了个斑秃富太%23",
-          "hot": 520744
+          "title": "网传AI能识别毒蘑菇系谣言",
+          "url": "https://s.weibo.com/weibo?q=%23网传AI能识别毒蘑菇系谣言%23",
+          "hot": 631411
         },
         {
-          "title": "iPhoneDuo大降价",
-          "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo大降价%23",
-          "hot": 514348
+          "title": "厉娜给许飞擦眼泪说我陪着你",
+          "url": "https://s.weibo.com/weibo?q=%23厉娜给许飞擦眼泪说我陪着你%23",
+          "hot": 619776
         },
         {
-          "title": "巴基斯坦人齐唱国歌见证神舟发射",
-          "url": "https://s.weibo.com/weibo?q=%23巴基斯坦人齐唱国歌见证神舟发射%23",
-          "hot": 485288
+          "title": "让特朗普念念不忘的帽子菜破案了",
+          "url": "https://s.weibo.com/weibo?q=%23让特朗普念念不忘的帽子菜破案了%23",
+          "hot": 610852
         },
         {
-          "title": "神24发射冲击波震碎记者设备屏幕",
-          "url": "https://s.weibo.com/weibo?q=%23神24发射冲击波震碎记者设备屏幕%23",
-          "hot": 434699
+          "title": "蔡磊已进渐冻症终末期",
+          "url": "https://s.weibo.com/weibo?q=%23蔡磊已进渐冻症终末期%23",
+          "hot": 592621
         },
         {
-          "title": "曝文吉儿婚礼推迟了",
-          "url": "https://s.weibo.com/weibo?q=%23曝文吉儿婚礼推迟了%23",
-          "hot": 431411
+          "title": "西索科隔扣文班亚马",
+          "url": "https://s.weibo.com/weibo?q=%23西索科隔扣文班亚马%23",
+          "hot": 549343
         },
         {
-          "title": "股市",
-          "url": "https://s.weibo.com/weibo?q=%23股市%23",
-          "hot": 427794
+          "title": "3纯",
+          "url": "https://s.weibo.com/weibo?q=%233纯%23",
+          "hot": 545535
         },
         {
-          "title": "四大AI评选中国最宜居城市",
-          "url": "https://s.weibo.com/weibo?q=%23四大AI评选中国最宜居城市%23",
-          "hot": 423959
+          "title": "日本40层大楼拆除居民未察觉",
+          "url": "https://s.weibo.com/weibo?q=%23日本40层大楼拆除居民未察觉%23",
+          "hot": 545082
         },
         {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%23黄金%23",
-          "hot": 420765
+          "title": "泰国警方通报一起华人绑架案",
+          "url": "https://s.weibo.com/weibo?q=%23泰国警方通报一起华人绑架案%23",
+          "hot": 534298
         },
         {
-          "title": "被智驾辅助撞亡救人者获见义勇为",
-          "url": "https://s.weibo.com/weibo?q=%23被智驾辅助撞亡救人者获见义勇为%23",
-          "hot": 418577
+          "title": "普京打包深圳炒菜上飞机",
+          "url": "https://s.weibo.com/weibo?q=%23普京打包深圳炒菜上飞机%23",
+          "hot": 466737
         }
       ]
     }
