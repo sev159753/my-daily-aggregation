@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T06:50:59.177380+00:00",
+  "updated_at": "2026-11-28T06:25:32.160729+00:00",
   "count": 16,
   "items": [
     {
@@ -7,128 +7,128 @@
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "language": "Python",
-      "stars": 24995,
-      "today_stars": 1597
+      "stars": 26392,
+      "today_stars": 1608
     },
     {
       "repo": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 327700,
-      "today_stars": 854
+      "stars": 328495,
+      "today_stars": 922
     },
     {
       "repo": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
-      "stars": 66546,
-      "today_stars": 746
+      "stars": 67113,
+      "today_stars": 666
     },
     {
       "repo": "jingyaogong/minimind",
       "url": "https://github.com/jingyaogong/minimind",
       "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "language": "Python",
-      "stars": 71862,
-      "today_stars": 702
+      "stars": 72308,
+      "today_stars": 660
     },
     {
       "repo": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
-      "stars": 19840,
-      "today_stars": 270
+      "stars": 20049,
+      "today_stars": 243
     },
     {
       "repo": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "language": "TypeScript",
-      "stars": 211147,
-      "today_stars": 1046
+      "stars": 211828,
+      "today_stars": 822
     },
     {
       "repo": "nginx/nginx",
       "url": "https://github.com/nginx/nginx",
       "description": "The official NGINX Open Source repository.",
       "language": "C",
-      "stars": 33559,
-      "today_stars": 150
+      "stars": 33694,
+      "today_stars": 146
     },
     {
       "repo": "openvinotoolkit/openvino",
       "url": "https://github.com/openvinotoolkit/openvino",
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
-      "stars": 12855,
-      "today_stars": 176
+      "stars": 12975,
+      "today_stars": 151
     },
     {
       "repo": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "language": "HTML",
-      "stars": 74049,
-      "today_stars": 955
+      "stars": 74558,
+      "today_stars": 725
     },
     {
       "repo": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": 75948,
-      "today_stars": 759
+      "stars": 76466,
+      "today_stars": 675
     },
     {
       "repo": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "language": "TypeScript",
-      "stars": 13376,
-      "today_stars": 309
+      "stars": 13656,
+      "today_stars": 311
     },
     {
       "repo": "mjmirza/app-store-compliance",
       "url": "https://github.com/mjmirza/app-store-compliance",
       "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "language": "Shell",
-      "stars": 7164,
-      "today_stars": 562
+      "stars": 8040,
+      "today_stars": 530
     },
     {
       "repo": "Tracer-Cloud/opensre",
       "url": "https://github.com/Tracer-Cloud/opensre",
       "description": "The open-source agent for CI/CD reliability.",
       "language": "Python",
-      "stars": 15912,
-      "today_stars": 327
+      "stars": 16197,
+      "today_stars": 328
     },
     {
       "repo": "toeverything/AFFiNE",
       "url": "https://github.com/toeverything/AFFiNE",
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
       "language": "TypeScript",
-      "stars": 79093,
-      "today_stars": 525
+      "stars": 79559,
+      "today_stars": 474
     },
     {
       "repo": "XiaoYouChR/Ghost-Downloader-3",
       "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
       "description": "The only downloader you need. 下载器的集大成者。",
       "language": "Python",
-      "stars": 19371,
-      "today_stars": 889
+      "stars": 20030,
+      "today_stars": 836
     },
     {
       "repo": "zhouxiaoka/autoclip",
       "url": "https://github.com/zhouxiaoka/autoclip",
       "description": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
       "language": "Python",
-      "stars": 17168,
-      "today_stars": 774
+      "stars": 17712,
+      "today_stars": 718
     }
   ]
 }
